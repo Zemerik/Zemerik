@@ -19,7 +19,10 @@ ACTIVE PROJECTS:
 - 🎮 Tic-Tak-To game in Python
 - 🕹️ Flappy Bird in PyGame
 
+PLATFORMS: 
 ![images (2)](https://github.com/Zemerik/Zemerik/assets/133865660/0757aeb1-37e9-4c3c-954c-0f7aa929c3dd)
+![images (2)](https://github.com/Zemerik/Zemerik/assets/133865660/7733cabc-1483-4417-b1b2-3a9fe14e7813)
+![images (2)](https://github.com/Zemerik/Zemerik/assets/133865660/4d5bbc5a-297c-496d-91ee-a917bb7ca974)
 
 
 <!---
