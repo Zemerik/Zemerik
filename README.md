@@ -20,6 +20,7 @@ ACTIVE PROJECTS:
 - 🕹️ Flappy Bird in PyGame
 - ➗ Calculator in Java
 
+<a href="https://twitter.com/ZemerikY" target="blank"><img align="center" src="https://twitter.com/ZemerikY" alt="https://twitter.com/ZemerikY" title="Twitter" width="35"/></a> &ensp;
 
 <!---
 Zemerik/Zemerik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
