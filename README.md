@@ -12,12 +12,14 @@ QUALIFICATIONS:
 - ✔️ Three years experience with Scratch
 - ✔️ Three months experience with Java
 - ✔️ Four months experience with JavaScript
-- ✔️ Can use pycharm, sublime text, Visual Studio Code, Replit, Notepad++, GitLab
+- ✔️ Can use Pycharm, Sublime, Visual Studio Code, Replit, Notepad++, GitLab
   
 ACTIVE PROJECTS:
 - 💲 Economy bot in JavaScript
 - 🎮 Tic-Tak-To game in Python
 - 🕹️ Flappy Bird in PyGame
+
+![images (2)](https://github.com/Zemerik/Zemerik/assets/133865660/0757aeb1-37e9-4c3c-954c-0f7aa929c3dd)
 
 
 <!---
