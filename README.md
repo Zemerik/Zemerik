@@ -4,7 +4,7 @@ INTRODUCTION:
 - 👀 I mainly code bots, apps, websites, mini - games
 - 🥳 I know Python, Java, JavaScript, Scratch and HTML
 - 🌱 I’m currently learning C+
-- 💞️ I’m looking to working with others and working on mega - projects in the future
+- 💞️ I’m looking to working with others and expanding my knowledge of programming languages
 
 QUALIFICATIONS: 
 - ✔️ One year experience with HTML
@@ -18,7 +18,7 @@ ACTIVE PROJECTS:
 - 💲 Economy bot in JavaScript
 - 🎮 Tic-Tak-To game in Python
 - 🕹️ Flappy Bird in PyGame
-
+- ➗ Calculator in Java
 
 <!---
 Zemerik/Zemerik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
