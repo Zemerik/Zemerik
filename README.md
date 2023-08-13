@@ -4,7 +4,7 @@ INTRODUCTION:
 - 👀 I mainly code bots, apps, websites, mini - games
 - 🥳 I know Python, Java, JavaScript, Scratch and HTML
 - 🌱 I’m currently learning C+
-- 💞️ I’m looking to working with others and expanding my knowledge of programming languages
+- 💞️ I’m looking to expand my knowledge of coding languages with others
 
 QUALIFICATIONS: 
 - ✔️ One year experience with HTML
