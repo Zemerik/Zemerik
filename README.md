@@ -1,15 +1,13 @@
 <h1><center>👋 Hi, I’m Hemang,</center></h1> 
 
-<h4>INTRODUCTION:</h4> 
-<p>- 👀 I mainly code bots, apps, websites, mini - games</p> 
-<p>- 🥳 I know Python, Java, JavaScript, Scratch and HTML</p>
-<p>- 🌱 I’m currently learning C#</p>
-<p>- 💞️ I’m looking to expand my knowledge of coding languages with others</p>
+<p>I am a dedicated, young, passionate Developer living in Australia.<br><br>
+💫I code bots, apps, games and websites using Python, JavaScript, Java, and HTML. <br>📈I am currently learning <font color = "#0000FF">c#</font> and expanding my knowledge of programming while also working on new projects.<br>💯You can view my projects <a href = "https://github.com/Zemerik?tab=repositories">here</a></p>
 
 <h4>LINKS: </h4>
 <p><a href = "https://twitter.com/ZemerikY">My Twitter</a></p>
 <p><a href = "https://www.linkedin.com/in/lucifer-yadav-7858b3284/">My LinkedIn</p>
 <p><a href = "https://discord.com/users/1018816958587748383">My Discord</a></p>
+<p><a href = "mailto: zemerikY@gmailcom">Email</a></p>
 <br>
 <center><table border = "2" bordercolor = "#000000" cellpadding = "2">
   <tbody>
