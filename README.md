@@ -4,10 +4,9 @@
 💫I code bots, apps, games and websites using Python, JavaScript, Java, and HTML. <br>📈I am currently learning <font color = "#0000FF">c#</font> and expanding my knowledge of programming while also working on new projects.<br>💯You can view my projects <a href = "https://github.com/Zemerik?tab=repositories">here</a></p>
 
 <h4>LINKS: </h4>
-<p><a href = "https://twitter.com/ZemerikY">My Twitter</a></p>
-<p><a href = "https://www.linkedin.com/in/lucifer-yadav-7858b3284/">My LinkedIn</p>
-<p><a href = "https://discord.com/users/1018816958587748383">My Discord</a></p>
-<p><a href = "mailto: zemerikY@gmailcom">Email</a></p>
+<p><a href = "https://twitter.com/ZemerikY">My Twitter</a> - <a href = "https://glitch.com/@zemerik">My Glitch</a></p>
+<p><a href = "https://www.linkedin.com/in/lucifer-yadav-7858b3284/">My LinkedIn</a> - <a href = "https://replit.com/@LuiceferYadav">My Replit</a></p>
+<p><a href = "https://discord.com/users/1018816958587748383">My Discord</a> - <a href = "mailto: zemerikY@gmailcom">Email</a></p>
 <br>
 <center><table border = "2" bordercolor = "#000000" cellpadding = "2">
   <tbody>
