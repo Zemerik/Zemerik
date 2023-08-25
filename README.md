@@ -1,6 +1,6 @@
-<h1><center>👋 Hi, I’m Hemang,</center></h1> 
+<h1><center>👋 Hi, I’m Hemang, </center></h1> 
 
-<p>I am a dedicated, young, passionate Developer living in Australia.<br><br>
+<p>I am a dedicated, young, passionate Developer living in Australia and owner of <a href = "https://github.com/BotPulse-Network">BotPulse Network</a><br><br>
 💫I code bots, apps, games and websites using Python, JavaScript, Java, and HTML. <br>📈I am currently learning <font color = "#0000FF">c#</font> and expanding my knowledge of programming while also working on new projects.<br>💯You can view my projects <a href = "https://github.com/Zemerik?tab=repositories">here</a></p>
 
 <h4>LINKS: </h4>
