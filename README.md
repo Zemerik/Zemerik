@@ -1,7 +1,7 @@
 <h1><center>👋 Hi, I’m Hemang, </center></h1> 
 
 <p>I am a dedicated, young, passionate Developer living in Australia and owner of <a href = "https://github.com/BotPulse-Network">BotPulse Network</a><br><br>
-💫I code bots, apps, games and websites using Python, JavaScript, Java, and HTML. <br>📈I am currently learning <font color = "#0000FF">c#</font> and expanding my knowledge of programming while also working on new projects.<br>💯You can view my projects <a href = "https://github.com/Zemerik?tab=repositories">here</a></p>
+💫I code bots, apps, games and websites using Python, JavaScript, Java, and HTML. <br>📈I am currently learning <font color = "#0000FF">C#</font> and expanding my knowledge of programming while also working on new projects.<br>💯You can view my projects <a href = "https://github.com/Zemerik?tab=repositories">here</a></p>
 
 <h4>LINKS: </h4>
 <p><a href = "https://twitter.com/ZemerikY">My Twitter</a> - <a href = "https://glitch.com/@zemerik">My Glitch</a></p>
@@ -47,6 +47,8 @@
   
 <h3>Apps: </h3>
 <img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1143502978368675880/image.png" alt = "Visual Studio Code" style = "width:250px;height:250px">
+
+<h6>Thanks for visiting my profile!</h6>
 <!---
 Zemerik/Zemerik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
