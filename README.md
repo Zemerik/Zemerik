@@ -1,7 +1,7 @@
 <h1><center>👋 Hi, I’m Hemang, </center></h1> 
 
-<p>I am a dedicated, young, passionate Developer living in Australia
-💫I code bots, apps, games and websites using Python, JavaScript, Java, and HTML as well as play with Spheros and mechanics<br>📈I am currently learning <font color = "#0000FF">C#</font> and expanding my knowledge of programming while also working on new projects.<br>🖨️I am Interested in Technology, Robotics & Mechanisms 💯You can view my projects <a href = "https://github.com/Zemerik?tab=repositories">here</a></p>
+<p>I am a dedicated, young, passionate Developer living in Australia</p>
+💫I code bots, apps, games and websites using Python, JavaScript, Java, and HTML as well as write codes for Spheros<br>📈I am currently learning <font color = "#0000FF">C#</font> and working on new projects.<br>⚙️I am interested in Technology, Robotics & Mechanisms<br>🖨️I have 3D printed <bold>73 </bold>designs<br> 💯You can view my projects <a href = "https://github.com/Zemerik?tab=repositories">here</a></p>
 
 <h4>HOBBIES: </h4>
 <p>♟️Chess<br>🏏Cricket<br>🧑‍💻Coding<br>🏊Swimming<br>⭐Robots/Technology</p>
