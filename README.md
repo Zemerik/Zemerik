@@ -3,6 +3,7 @@
 <h2>🙋‍♂️About me:</h2>
 I am a young and passionate developer based in Australia trying to be a Software Developer. I code Discord Bots, Apps, Websites with Python, JavaScript & HTML. I am currently learning TypeScript and working on MyPortfolio. I also work with <a href = 'https://sphero.com'>Sphero</a>. 
 
+<h2>🟢Status: </h2>
 <img src = "https://discord.c99.nl/widget/theme-1/1018816958587748383.png">
 
 <h2>🚠CONTACTS: </h2>
