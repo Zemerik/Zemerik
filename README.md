@@ -9,9 +9,9 @@ I am a young and passionate developer based in Australia trying to be a Software
 <h2>🚠CONTACTS: </h2>
 <br>
 <p>
-<a href = "https://twitter.com/ZemerikY"><img src = "https://media.discordapp.net/attachments/1062477574841831594/1156635589370716160/IMG_0346.png?ex=6515b055&is=65145ed5&hm=33816a0498b497884b95e58f1d594912cfea0a7b31b977266b9b6127f8a294e8&" style = "width:200px;height:50px"></a>  
+<a href = "https://twitter.com/ZemerikY"><img src = "https://media.discordapp.net/attachments/1062477574841831594/1156635589370716160/IMG_0346.png?ex=6515b055&is=65145ed5&hm=33816a0498b497884b95e58f1d594912cfea0a7b31b977266b9b6127f8a294e8&" style = "width:250px;height:50px"></a>  
 <a href = "https://discord.com/users/1018816958587748383"><img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1156878727666483280/IMG_0358.png?ex=651692c6&is=65154146&hm=80d759a2dd8237abd6eb47e158dcb39673c354fef831d1477642ce2deb1a15ae&" style = "width:180px;height:50px"</a> 
-<a href = "mailto: zemerikY@gmail.com"><img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1156796673901723679/IMG_0350.png?ex=6516465b&is=6514f4db&hm=8a6de7ba9d3792b96be30788aad977953a19f9395772968e70a671c23a13b497&" style = "width:200px;height:50px"></a></p>
+<a href = "mailto: zemerikY@gmail.com"><img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1156796673901723679/IMG_0350.png?ex=6516465b&is=6514f4db&hm=8a6de7ba9d3792b96be30788aad977953a19f9395772968e70a671c23a13b497&" style = "width:300px;height:50px"></a></p>
 
 <h2 align = "center">🔌QUALIFICATIONS: </h2>
 <br>
