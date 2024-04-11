@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zemerik" alt="zemerik" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zemeriky_x" target="blank"><img src="https://img.shields.io/twitter/follow/zemerik_x?logo=twitter&style=for-the-badge" alt="zemerik_x" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zemerik_x" target="_blank"><img src="https://img.shields.io/twitter/follow/zemerik_x?logo=twitter&style=for-the-badge" alt="zemerik_x" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://zemerik.is-a.dev](https://zemerik.is-a.dev)
 
