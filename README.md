@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zemerik" alt="zemerik" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zemeriky" target="blank"><img src="https://img.shields.io/twitter/follow/zemerik_x?logo=twitter&style=for-the-badge" alt="zemerik_x" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zemeriky_x" target="blank"><img src="https://img.shields.io/twitter/follow/zemerik_x?logo=twitter&style=for-the-badge" alt="zemerik_x" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://zemerik.is-a.dev](https://zemerik.is-a.dev)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zemerik_x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemeriky" height="30" width="40" /></a>
+<a href="https://twitter.com/zemerik_x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemerik_x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zemerik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zemerik" height="30" width="40" /></a>
 <a href="https://instagram.com/zemerik_69_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zemerik_insta" height="30" width="40" /></a>
 <a href="https://discord.gg/WMCEHzwkup" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WMCEHzwkup" height="30" width="40" /></a>
