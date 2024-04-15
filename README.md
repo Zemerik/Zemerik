@@ -3,17 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zemerik&label=Profile%20views&color=0e75b6&style=flat" alt="zemerik" /> </p>
 
-<p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/1018816958587748383" alt="status"></p>
+<p align="center"> <a href="https://discord.com/users/1018816958587748383"><img src="https://lanyard-profile-readme.vercel.app/api/1018816958587748383?showDisplayName=true&bg=141321&idleMessage=Let%27s%20Chat%20on%20Discord" alt="status"></a> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zemerik" alt="zemerik" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/zemerik_x" target="_blank"><img src="https://img.shields.io/twitter/follow/zemerik_x?logo=twitter&style=for-the-badge" alt="zemerik_x" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://zemerik.is-a.dev](https://zemerik.is-a.dev)
+- 👨‍💻 All of my projects are available at: [https://zemerik.is-a.dev](https://zemerik.is-a.dev)
 
-- 📫 How to reach me **zemeriky@gmail.com**
+- 📫 Reach me on my Email: **zemeriky@gmail.com**
 
-- ⚡ Fun fact **Self-taught**
+- ⚡ Fun fact: **Self-taught**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
