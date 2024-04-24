@@ -20,15 +20,7 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
-<img src = "https://zemerik.vercel.app/assets/htmlicon-108d14be.svg">
-<img src = "https://zemerik.vercel.app/assets/cssicon-d5d03137.svg">
-<img src = "https://zemerik.vercel.app/assets/javascripticon-078d4ece.svg">
-<img src = "https://zemerik.vercel.app/assets/typescripticon-c12b968a.svg">
-<img src = "https://zemerik.vercel.app/assets/reacticon-44f3e413.svg">
-<img src = "https://zemerik.vercel.app/assets/nodejsicon-c8b5993b.svg">
-<img src = "https://zemerik.vercel.app/assets/tailwindicon-ae3c652c.svg">
-<img src = "https://zemerik.vercel.app/assets/mongoicon-fafba5cf.svg">
-<img src = "https://zemerik.vercel.app/assets/vueicon-2d5936ad.svg">
+<img src = "https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,nodejs,tailwind,mongodb,vue,express,ruby,vscode,neovim,ai,java&perline=25"
 </p>
 
 <h3 align = "left">My Stats:</h3>
