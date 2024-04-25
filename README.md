@@ -20,7 +20,7 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
-<img src = "https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,nodejs,tailwind,mongodb,vue,express,ruby,vscode,neovim,ai,java&perline=25"
+<img src = "https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,nodejs,tailwind,mongodb,vue,express,ruby,vscode,neovim,ai,java,discord,instagram,github,linkedin,twitter,devto,gmail,git,windows,linux,replit,vercel,bitbucket,gitlab&perline=25"
 </p>
 
 <h3 align = "left">My Stats:</h3>
