@@ -4,7 +4,7 @@
 
 <h3 align = "left">About me:</h3>
 
-![About](assets/About.gif)
+![About](assets/About2.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,9 +15,8 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
-<p align="left"> 
-<img src = "https://skillicons.dev/icons?i=javascript,typescript,python,html,css,react,nodejs,tailwind,mongodb,vue,express,ruby,vscode,neovim,ai,java,discord,instagram,github,linkedin,twitter,devto,gmail,git,windows,linux,replit,vercel,bitbucket,gitlab&perline=25"
-</p>
+
+![Tech Stack](assets/tools.svg)
 
 <h3 align = "left">My Stats:</h3>
 <p align = "left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zemerik&show_icons=true&theme=cobalt&locale=en" alt="zemerik" /></p>
