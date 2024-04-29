@@ -4,11 +4,7 @@
 
 <h3 align = "left">About me:</h3>
 
-- 👨‍💻 All of my projects are available at: [**https://zemerik.is-a.dev**](https://zemerik.is-a.dev)
-
-- 📫 Feel Free to reach me on my Email: [**zemerikY@gmail.com**](mailto:zemeriky@gmail.com)
-
-- ⚡ You can read my blogs on: [**dev.to/Zemerik**](https://dev.to/zemerik)
+![About](assets/About.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
