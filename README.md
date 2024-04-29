@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zemerik&label=Profile%20views&color=0e75b6&style=flat" alt="zemerik" /> </p>
 
-<img src = "https://cdn.discordapp.com/attachments/1062477574841831594/1232232985995251712/image.png?ex=6628b5e5&is=66276465&hm=c61f7fdabb5bdf7deb668485267dd70b2bd5162c373fd5cc8ff6269dea665044&">
+![Banner](assets/banner_github.png)
 
 <h3 align = "left">About me:</h3>
 
