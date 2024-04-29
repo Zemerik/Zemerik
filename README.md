@@ -20,7 +20,7 @@
 </p>
 
 <h3 align = "left">My Stats:</h3>
-<p align = "left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zemerik&show_icons=true&locale=en" alt="zemerik" /></p>
+<p align = "left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zemerik&show_icons=true&theme=cobalt&locale=en" alt="zemerik" /></p>
 
 <h3 align = "left">Current Status:</h3>
 <p align = "left"><img src = "https://lanyard-profile-readme.vercel.app/api/1018816958587748383?showDisplayName=true&bg=141321&idleMessage=Let%27s%20Chat%20on%20Discord" alt = "Status" style = "height:200px;width:400px"></p>
