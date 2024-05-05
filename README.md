@@ -15,6 +15,8 @@
       Hemang Yadav
     </summary>
 
+<br>
+
 ![Banner](assets/banner_github.png)
 
 <details close>
@@ -42,16 +44,13 @@
     My Stats:
   </summary>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zemerik&show_icons=true&theme=cobalt&locale=en)  
+<br>
 
-</details>
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zemerik&show_icons=true&theme=cobalt&locale=en&layout=compact)  
 
-<details>
-  <summary>
-    Current Status:
-  </summary>
+<br>
 
-![Status](https://lanyard-profile-readme.vercel.app/api/1018816958587748383?showDisplayName=true&bg=141321&idleMessage=Let%27s%20Chat%20on%20Discord)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zemerik&show_icons=true&theme=cobalt&locale=en)
 
 </details>
 
