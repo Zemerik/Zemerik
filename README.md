@@ -61,13 +61,6 @@
 
 <br>
 
-<details>
-  <summary>
-    Current Projects
-  </summary>
-
-<br>
-
 ![Sports-Stadium](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=Sports-Stadium&show_icons=true&theme=cobalt)
 
 <br>
@@ -77,28 +70,6 @@
 <br>
 
 ![Portfolio V2](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=Portfolio-v2&show_icons=true&theme=cobalt)
-
-</details>
-
-<details>
-  <summary>
-    Upcoming Projects
-  </summary>
-
-<br>
-
-<tbody>
-  <tr>
-    <th>
-      <img src = "assets/ZemProfiles.png">
-    </th>
-    <th>
-      ZemProfiles: Discover & Connect with Developers 
-    </th>
-  </tr>
-</tbody>
-
-</details>
 
 </details>
 
