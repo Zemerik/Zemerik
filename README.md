@@ -12,7 +12,7 @@
 <div align = "center">
   <details close>
     <summary>
-      Hemang Yadav
+      Click to view
     </summary>
 
 <br>
@@ -54,8 +54,55 @@
 
 </details>
 
+<details>
+  <summary>
+    Projects:
+  </summary>
+
+<br>
+
+<details>
+  <summary>
+    Current Projects
+  </summary>
+
+<br>
+
+![Sports-Stadium](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=Sports-Stadium&show_icons=true&theme=cobalt)
+
+<br>
+
+![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=zemerik.github.io&show_icons=true&theme=cobalt)
+
+<br>
+
+![Portfolio V2](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=Portfolio-v2&show_icons=true&theme=cobalt)
+
+</details>
+
+<details>
+  <summary>
+    Upcoming Projects
+  </summary>
+
+<br>
+
+<tbody>
+  <tr>
+    <th>
+      <img src = "assets/ZemProfiles.png">
+    </th>
+    <th>
+      ZemProfiles: Discover & Connect with Developers 
+    </th>
+  </tr>
+</tbody>
+
+</details>
+
+</details>
+
 </details>
 </div>
 
 <p align = "center"><img src = "assets/ironman-legs.png"></p>
-
