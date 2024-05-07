@@ -61,15 +61,19 @@
 
 <br>
 
-![Sports-Stadium](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=Sports-Stadium&show_icons=true&theme=cobalt)
+[![ZemProfiles](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=ZemProfiles&show_icons=true&theme=cobalt)](https://github.com/Zemerik/ZemProfiles)
 
 <br>
 
-![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=zemerik.github.io&show_icons=true&theme=cobalt)
+[![Sports-Stadium](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=Sports-Stadium&show_icons=true&theme=cobalt)](https://github.com/Zemerik/Sports-Stadium)
 
 <br>
 
-![Portfolio V2](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=Portfolio-v2&show_icons=true&theme=cobalt)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=zemerik.github.io&show_icons=true&theme=cobalt)](https://github.com/Zemerik/zemerik.github.io)
+
+<br>
+
+[![Portfolio V2](https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=Portfolio-v2&show_icons=true&theme=cobalt)](https://github.com/Zemerik/Portfolio-v2)
 
 </details>
 
