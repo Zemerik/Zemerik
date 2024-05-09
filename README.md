@@ -50,7 +50,7 @@
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zemerik&show_icons=true&theme=cobalt&locale=en)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zemerik&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=cobalt&locale=en)
 
 </details>
 
