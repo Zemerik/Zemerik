@@ -30,19 +30,6 @@
 
 <details>
   <summary>
-    Blogs
-  </summary>
-
-<br>
-
-<!-- DEVTO-BLOG-LIST:START -->
-
-<!-- DEVTO-BLOG-LIST:END -->
-
-</details>
-
-<details>
-  <summary>
     Tech Stack
   </summary>
 
