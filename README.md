@@ -30,19 +30,6 @@
 
 <details>
   <summary>
-    Blogs
-  </summary>
-
-<br>
-
-Soon ... 
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
-
-</details>
-
-<details>
-  <summary>
     Tech Stack
   </summary>
 
