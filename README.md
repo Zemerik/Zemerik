@@ -34,6 +34,10 @@
   </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic Markdown](https://dev.to/zemerik/basic-markdown-2jel)
+- [Contribute to ZemProfiles!](https://dev.to/zemerik/contribute-to-zemprofiles-16on)
+- [How to make a cool GitHub README.md](https://dev.to/zemerik/how-to-make-a-cool-github-readmemd-46dj)
+- [Making a good Github Profile README.md](https://dev.to/zemerik/making-a-good-github-profile-readmemd-ni0)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
