@@ -21,16 +21,26 @@
 
 <details close>
   <summary>
-    About me:
+    🤖About me
   </summary>
 
 ![About](assets/About2.gif)
 
 </details>
 
+<details close>
+  <summary>
+    ✍️Blogs
+  </summary>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
 <details>
   <summary>
-    Tech Stack
+    🤯Tech Stack
   </summary>
 
 <br>
@@ -41,7 +51,7 @@
 
 <details>
   <summary>
-    My Stats:
+    🎓My Stats:
   </summary>
 
 <br>
@@ -56,7 +66,7 @@
 
 <details>
   <summary>
-    Projects:
+    🏆Projects:
   </summary>
 
 <br>
