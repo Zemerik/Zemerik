@@ -76,6 +76,12 @@
 
 <p align = "center">
 
+<a href = "https://discord.com/users/1018816958587748383">
+  <img src = "https://lanyard-profile-readme.vercel.app/api/1018816958587748383?showDisplayName=true&bg=141321&idleMessage=Let%27s%20Chat%20on%20Discord">
+</a>
+
+<p align = "center">
+
 <a href = "https://github.com/Zemerik/Zemprofiles">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=ZemProfiles&show_icons=true&theme=cobalt" alt = "ZemProfiles">
 </a>
