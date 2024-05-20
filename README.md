@@ -17,7 +17,7 @@
 
 <br>
 
-![Banner](assets/banner_github.png)
+![Banner](assets/banner3.png)
 
 <details close>
   <summary>
