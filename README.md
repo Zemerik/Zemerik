@@ -82,12 +82,9 @@
 
 <p align = "center">
 
-<a href = "https://github.com/Zemerik/Zemprofiles">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=ZemProfiles&show_icons=true&theme=cobalt" alt = "ZemProfiles">
-</a>
-
-<a href = "https://github.com/Zemerik/Portfolio-v2">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=zemerik&repo=Portfolio-v2&show_icons=true&theme=cobalt" alt = "Portfolio v2">
-</a>
+<table>
+  <!-- YOUTUBE-VIDEOS-LIST:START -->
+  <!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
 
 </p>
