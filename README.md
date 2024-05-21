@@ -83,8 +83,9 @@
 <p align = "center">
 
 <table>
-  <!-- YOUTUBE-VIDEOS-LIST:START -->
-  <!-- YOUTUBE-VIDEOS-LIST:END -->
+  <!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=As7KgTZOrlE"><img width="140px" src="https://i.ytimg.com/vi/As7KgTZOrlE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=As7KgTZOrlE">How to update GitHub Profile README with latest blogs</a> (May 21, 2024)<br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
 </p>
