@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 HEMANG YADA
+Copyright (c) 2024 HEMANG YADAV
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
