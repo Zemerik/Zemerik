@@ -1,14 +1,23 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zemerik&label=Profile%20views&color=0e75b6&style=flat" alt="zemerik" /> </p>
 
 <p align = "center">
-<a href="https://twitter.com/zemerik_x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemerik_x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zemerik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zemerik" height="30" width="40" /></a>
-<a href="https://instagram.com/zemerik_insta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zemerik_insta" height="30" width="40" /></a>
-<a href="https://discord.gg/WMCEHzwkup" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WMCEHzwkup" height="30" width="40" /></a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Hemang;🌐+Web+Developer;🏆+Open Source Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <a href="https://twitter.com/zemerik_x" target="_blank">
+    <img src = "assets/x.png" alt = "Zemerik_X" style = "width:50px;height:50px">
+  </a>
+
+  <a href="https://linkedin.com/in/zemerik" target = "_blank">
+    <img src = "assets/in.png" alt = "in/zemerik" style = "width:50px;height:50px">
+  </a>
+
+  <a href="https://discord.gg/WMCEHzwkup" target="_blank">
+    <img src = "assets/discord.png" alt = ".zemerik" style = "width:50px;height:50px">
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCLJY3Fa0xheb_SNSuPkbdZw" target="_blank">
+    <img src = "assets/youtube.png" alt = "@Zemerik" style = "width:80px;height:45px">
+  </a>
+
 </p>
 
 ![Banner](assets/banner4.png)
