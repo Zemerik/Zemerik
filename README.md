@@ -1,6 +1,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zemerik&label=Profile%20views&color=0e75b6&style=flat" alt="zemerik" /> </p>
 
 <p align = "center">
+  <img src = "https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Hemang;🌐+Web+Developer;🏆+Open Source Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+<p align = "center">
 
   <a href="https://twitter.com/zemerik_x" target="_blank">
     <img src = "assets/x.png" alt = "Zemerik_X" style = "width:50px;height:50px">
