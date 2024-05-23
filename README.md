@@ -56,6 +56,16 @@
 
 </details>
 
+<details close>
+  <summary>
+    📝Recent Tweets:
+  </summary>
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
+</details>
+
 <details>
   <summary>
     🤯Tech Stack
