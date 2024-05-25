@@ -108,6 +108,30 @@
 
 <br>
 
+
+```js
+const Zemerik = {
+  name: "Hemang Yadav",
+  age: "14",
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, Ruby, Python, Java],
+  tools: [ReactJS, NextJS, Node],
+  socials: {
+              LinkedIN: "in/zemerik",
+              X: "Zemerik_X",
+              DISCORD: ".zemerik",
+           },
+  projects: {
+               ZemProfiles: "zemprofiles.vercel.app",
+               Sports Stadium: "zemerik.is-a.dev/Sports-Stadium",
+               Portfolio; "zemerik.vercel.app",
+            },
+  Fun Fact: "I am currently exploring Python & Pygame",
+}
+```
+
+<br>
+
 ## Youtube Videos:
 
 <p align = "center">
