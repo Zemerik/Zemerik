@@ -64,11 +64,11 @@
   </summary>
 
 <!-- TWITTER:START -->
+- [@Zemerik_X: As developers, where do you write your blogs?](https://twitter.com/Zemerik_X/status/1794186242600714466)
 - [@Zemerik_X: Be honest, do you have ever pay attention to Python&#39;s Warnings?](https://twitter.com/Zemerik_X/status/1793620291928899653)
 - [@Zemerik_X: I upload my first ever #YouTube video today🏆🏆🏆!! Feel free to check out it out👇👇 youtube.com/watch?v=As7KgT…](https://twitter.com/Zemerik_X/status/1792870166155665547)
 - [@Zemerik_X: I have been invited to a Kart Racing birthday party by my friends, should I take my laptop?🤔](https://twitter.com/Zemerik_X/status/1791981753894318412)
 - [@Zemerik_X: What is the most commits you did in one day? Mine: 50](https://twitter.com/Zemerik_X/status/1791745973414199793)
-- [@Zemerik_X: Does your contribution graph affect your profile? Mine looks like this👇](https://twitter.com/Zemerik_X/status/1791735391516545184)
 <!-- TWITTER:END -->
 
 </details>
