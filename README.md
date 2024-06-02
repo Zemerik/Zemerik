@@ -1,35 +1,13 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zemerik&label=Profile%20views&color=0e75b6&style=flat" alt="zemerik" /> </p>
-
-<p align = "center">
-  <img src = "assets/bitmoji.png" alt = "Bitmoji">
-</p>
-
 <p align = "center">
   <img src = "https://readme-typing-svg.demolab.com/?lines=Hello+👋+I'm+Hemang;🌐+Web+Developer+🌐;🏆+Open+Source+Enthusiast+🏆&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <br>
 
-<p align="center">
-  
-  <a href = "https://x.com/Zemerik_X" style = "text-decoration:none">
-    <img height = "30" src = "https://img.shields.io/badge/zemerik_X-black.svg?&style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  
-  <a href = "https://discord.gg/td5xqmzEcg" style = "text-decoration:none">
-    <img height = "30" src = "https://img.shields.io/badge/.zemerik-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  
-  <a href = "https://www.linkedin.com/in/zemerik" style="text-decoration:none">
-    <img height = "30" src = "https://img.shields.io/badge/in/zemerik-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCLJY3Fa0xheb_SNSuPkbdZw" style="text-decoration:none">
-    <img height = "30" src = "https://img.shields.io/badge/Zemerik-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
-  </a>
-
+<p align = "center">
+  <img src = "assets/banner5.png" alt = "Banner">
 </p>
-  
+
 <br>
 
 <p align = "center"><img src = "assets/ironman-head.png"></p>
@@ -91,11 +69,29 @@
 
 <br>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zemerik&show_icons=true&theme=cobalt&locale=en&layout=compact)  
+<table>
+  <tr>
+    <td>
+    
+  ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zemerik&layout=donut&theme=radical)
+    </td>
+    <td>
+
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=zemerik&show=reviews,&show_icons=true&theme=radical&locale=en)
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+
+  ![GitHub Streaks](https://streak-stats.demolab.com?user=Zemerik&theme=radical)
+    </td>
+  </tr>
+</table>
 
 <br>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zemerik&show=reviews,&show_icons=true&theme=cobalt&locale=en)
 
 </details>
 
@@ -106,6 +102,27 @@
 
 <br>
 
+<p align="center">
+  
+  <a href = "https://x.com/Zemerik_X" style = "text-decoration:none">
+    <img height = "30" src = "https://img.shields.io/badge/zemerik_X-black.svg?&style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  
+  <a href = "https://discord.gg/td5xqmzEcg" style = "text-decoration:none">
+    <img height = "30" src = "https://img.shields.io/badge/.zemerik-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  
+  <a href = "https://www.linkedin.com/in/zemerik" style="text-decoration:none">
+    <img height = "30" src = "https://img.shields.io/badge/in/zemerik-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCLJY3Fa0xheb_SNSuPkbdZw" style="text-decoration:none">
+    <img height = "30" src = "https://img.shields.io/badge/Zemerik-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+
+</p>
+  
+<br>
 
 ```js
 const Zemerik = {
@@ -138,4 +155,10 @@ const Zemerik = {
 [![How to update GitHub Profile README with latest blogs](https://ytcards.demolab.com/?id=As7KgTZOrlE&title=How+to+update+GitHub+Profile+README+with+latest+blogs&lang=en&timestamp=1716288361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=375 "How to update GitHub Profile README with latest blogs")](https://www.youtube.com/watch?v=As7KgTZOrlE)
 <!-- END YOUTUBE-CARDS -->
 
+</p>
+
+<br>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=zemerik&label=Profile%20views&color=0e75b6&style=flat" alt="zemerik" /> 
 </p>
