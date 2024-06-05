@@ -187,6 +187,10 @@ const Zemerik = {
 
 <br>
 
+<h2 align = "center">
+  Thank you for Visiting
+</h2>
+
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=zemerik&label=Profile%20views&color=0e75b6&style=flat" alt="zemerik" /> 
+  <img src="https://komarev.com/ghpvc/?username=zemerik&label=Visitors&color=0e75b6&style=flat" alt="zemerik" /> 
 </p>
