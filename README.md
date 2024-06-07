@@ -195,5 +195,6 @@ const Zemerik = {
 </h2>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=zemerik&label=Visitors&color=0e75b6&style=flat" alt="zemerik" /> 
+  <img src="https://komarev.com/ghpvc/?username=zemerik&label=Visitors&color=0e75b6&style=flat" alt = "Visitors" /> 
+  <img src="https://img.shields.io/github/followers/zemerik.svg?style=social&label=Follow&maxAge=2592000" alt = "Github Followers" />
 </p>
