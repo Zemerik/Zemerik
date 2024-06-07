@@ -175,7 +175,9 @@ const Zemerik = {
 
 <br>
 
-## Youtube Videos:
+<h2 align = "center">
+  Youtube Videos:
+</h2>
 
 <p align = "center">
 
