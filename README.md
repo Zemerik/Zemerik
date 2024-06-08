@@ -34,21 +34,6 @@
 
 </details>
 
-<details close>
-  <summary>
-    📝Recent Tweets
-  </summary>
-
-<!-- TWITTER:START -->
-- [@Zemerik_X: I have my first set of exams in two months time, I guess I will be `study commit -m &quot;exams&quot;` now](https://twitter.com/Zemerik_X/status/1795826068500435281)
-- [@Zemerik_X: #ChatGPT was primarily made using #Python!!! Did u know that? 🤯](https://twitter.com/Zemerik_X/status/1795724148725182718)
-- [@Zemerik_X: What are you currently working on?](https://twitter.com/Zemerik_X/status/1795067254972744102)
-- [@Zemerik_X: As developers, where do you write your blogs?](https://twitter.com/Zemerik_X/status/1794186242600714466)
-- [@Zemerik_X: Be honest, do you have ever pay attention to Python&#39;s Warnings?](https://twitter.com/Zemerik_X/status/1793620291928899653)
-<!-- TWITTER:END -->
-
-</details>
-
 <details>
   <summary>
     🤯Tech Stack
