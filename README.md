@@ -26,10 +26,10 @@
   </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [CONTRIBUTE TO ZEMPROFILES](https://dev.to/zemerik/contribute-to-zemprofiles-55f1)
 - [How to display Latest Blogs on Github Profile?](https://dev.to/zemerik/how-to-display-latest-blogs-on-github-profile-2la5)
 - [Basic Markdown](https://dev.to/zemerik/basic-markdown-2jel)
 - [Contribute to ZemProfiles!](https://dev.to/zemerik/contribute-to-zemprofiles-16on)
-- [Get started with coding a discord bot](https://dev.to/zemerik/get-started-with-coding-a-discord-bot-2ojc)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
