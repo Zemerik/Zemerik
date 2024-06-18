@@ -177,7 +177,7 @@ const Zemerik = {
 <br>
 
 <h2 align = "center">
-  Thank you for Visiting
+  Thanks for Visiting
 </h2>
 
 <p align="center"> 
