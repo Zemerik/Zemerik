@@ -140,10 +140,10 @@
 ```js
 const Zemerik = {
   name: "Hemang Yadav",
-  age: "14",
+  age: "15",
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, Ruby, Python, Java],
-  tools: [ReactJS, NextJS, Node],
+  tools: [ReactJS, NextJS, NodeJS],
   socials: {
               LinkedIN: "in/zemerik",
               X: "Zemerik_X",
