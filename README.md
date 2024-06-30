@@ -36,6 +36,18 @@
 
 <details>
   <summary>
+    ⚡Recent Activity
+  </summary>
+
+<br>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>
     🤯Tech Stack
   </summary>
 

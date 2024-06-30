@@ -1,0 +1,21 @@
+name: 🏃‍♀️ Github Activity
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: ✅ Update with Recent Activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH }}
+        with:
+          COMMIT_MSG: "docs(readme): Update Recent Activity"
+          MAX_LINES: 5
+          COMMIT_NAME: Update GitHub Activity
