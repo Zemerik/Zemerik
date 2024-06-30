@@ -42,6 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v1.0.1](https://github.com/Zemerik/ZemShowcase/releases/tag/v1.0.1) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+2. 💪 Opened PR [#10](https://github.com/nisarhassan12/portfolio/pull/10) in [nisarhassan12/portfolio](https://github.com/nisarhassan12/portfolio)
+3. 🗣 Commented on [#9](https://github.com/nisarhassan12/portfolio/pull/9#issuecomment-2169183017) in [nisarhassan12/portfolio](https://github.com/nisarhassan12/portfolio)
+4. 🗣 Commented on [#9](https://github.com/nisarhassan12/portfolio/pull/9#issuecomment-2169182954) in [nisarhassan12/portfolio](https://github.com/nisarhassan12/portfolio)
+5. ❗ Opened issue [#1](https://github.com/nimishjn/note-taker-lexaar/issues/1) in [nimishjn/note-taker-lexaar](https://github.com/nimishjn/note-taker-lexaar)
 <!--END_SECTION:activity-->
 
 </details>
