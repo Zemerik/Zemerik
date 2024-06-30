@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/Zemerik/ZemShowcase/releases/tag/v1.0.1) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-2. 💪 Opened PR [#10](https://github.com/nisarhassan12/portfolio/pull/10) in [nisarhassan12/portfolio](https://github.com/nisarhassan12/portfolio)
-3. 🗣 Commented on [#9](https://github.com/nisarhassan12/portfolio/pull/9#issuecomment-2169183017) in [nisarhassan12/portfolio](https://github.com/nisarhassan12/portfolio)
-4. 🗣 Commented on [#9](https://github.com/nisarhassan12/portfolio/pull/9#issuecomment-2169182954) in [nisarhassan12/portfolio](https://github.com/nisarhassan12/portfolio)
-5. ❗ Opened issue [#1](https://github.com/nimishjn/note-taker-lexaar/issues/1) in [nimishjn/note-taker-lexaar](https://github.com/nimishjn/note-taker-lexaar)
+1. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198480993) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+2. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198469112) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+3. ❗ Opened issue [#1](https://github.com/ParthJohri/voiceToText/issues/1) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+4. 🚀 Published release [v1.0.1](https://github.com/Zemerik/ZemShowcase/releases/tag/v1.0.1) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+5. 💪 Opened PR [#10](https://github.com/nisarhassan12/portfolio/pull/10) in [nisarhassan12/portfolio](https://github.com/nisarhassan12/portfolio)
 <!--END_SECTION:activity-->
 
 </details>
