@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198480993) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
-2. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198469112) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
-3. ❗ Opened issue [#1](https://github.com/ParthJohri/voiceToText/issues/1) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
-4. 🚀 Published release [v1.0.1](https://github.com/Zemerik/ZemShowcase/releases/tag/v1.0.1) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-5. 💪 Opened PR [#10](https://github.com/nisarhassan12/portfolio/pull/10) in [nisarhassan12/portfolio](https://github.com/nisarhassan12/portfolio)
+1. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100#issuecomment-2200059160) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+2. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198480993) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+3. 🗣 Commented on [#1](https://github.com/ParthJohri/voiceToText/issues/1#issuecomment-2198469112) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+4. ❗ Opened issue [#1](https://github.com/ParthJohri/voiceToText/issues/1) in [ParthJohri/voiceToText](https://github.com/ParthJohri/voiceToText)
+5. 🚀 Published release [v1.0.1](https://github.com/Zemerik/ZemShowcase/releases/tag/v1.0.1) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
 <!--END_SECTION:activity-->
 
 </details>
