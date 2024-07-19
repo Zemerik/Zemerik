@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#59](https://github.com/LordDashMe/github-contribution-stats/pull/59) in [LordDashMe/github-contribution-stats](https://github.com/LordDashMe/github-contribution-stats)
-2. 🚀 Published release [v2.0.1](https://github.com/Zemerik/Portfolio-Template/releases/tag/v2.0.1) in [Zemerik/Portfolio-Template](https://github.com/Zemerik/Portfolio-Template)
-3. 🎉 Merged PR [#3](https://github.com/Zemerik/ZemPosts/pull/3) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-4. 🎉 Merged PR [#2](https://github.com/Zemerik/ZemPosts/pull/2) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-5. 🗣 Commented on [#1](https://github.com/Zemerik/ZemPosts/pull/1#issuecomment-2212392593) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+1. 🚀 Published release [v1.0.1](https://github.com/Zemerik/Terminal/releases/tag/v1.0.1) in [Zemerik/Terminal](https://github.com/Zemerik/Terminal)
+2. ❌ Closed PR [#59](https://github.com/LordDashMe/github-contribution-stats/pull/59) in [LordDashMe/github-contribution-stats](https://github.com/LordDashMe/github-contribution-stats)
+3. 🚀 Published release [v2.0.1](https://github.com/Zemerik/Portfolio-Template/releases/tag/v2.0.1) in [Zemerik/Portfolio-Template](https://github.com/Zemerik/Portfolio-Template)
+4. 🎉 Merged PR [#3](https://github.com/Zemerik/ZemPosts/pull/3) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+5. 🎉 Merged PR [#2](https://github.com/Zemerik/ZemPosts/pull/2) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
 <!--END_SECTION:activity-->
 
 </details>
