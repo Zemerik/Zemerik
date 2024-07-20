@@ -73,19 +73,14 @@
   <tr>
     <td>
     
-  ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zemerik&layout=donut&theme=radical)
+  ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zemerik&layout=pie&theme=radical)
     </td>
     <td>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=zemerik&show=reviews,&show_icons=true&theme=radical&locale=en)
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-
+  
+  <br>
+  
   ![GitHub Streaks](https://streak-stats.demolab.com?user=Zemerik&theme=radical)
     </td>
   </tr>
