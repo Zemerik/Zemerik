@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/ahsankhan26/personal-portfolio/issues/9#issuecomment-2244952715) in [ahsankhan26/personal-portfolio](https://github.com/ahsankhan26/personal-portfolio)
-2. 🗣 Commented on [#26](https://github.com/tthn0/Spotify-Readme/issues/26#issuecomment-2241802622) in [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme)
-3. 🔒 Closed issue [#26](https://github.com/tthn0/Spotify-Readme/issues/26) in [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme)
-4. 🚀 Published release [v1.0.1](https://github.com/Zemerik/Terminal/releases/tag/v1.0.1) in [Zemerik/Terminal](https://github.com/Zemerik/Terminal)
-5. ❌ Closed PR [#59](https://github.com/LordDashMe/github-contribution-stats/pull/59) in [LordDashMe/github-contribution-stats](https://github.com/LordDashMe/github-contribution-stats)
+1. 🚀 Published release [v2.0.1](https://github.com/Zemerik/ZemShowcase/releases/tag/v2.0.1) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+2. 🗣 Commented on [#9](https://github.com/ahsankhan26/personal-portfolio/issues/9#issuecomment-2244952715) in [ahsankhan26/personal-portfolio](https://github.com/ahsankhan26/personal-portfolio)
+3. 🗣 Commented on [#26](https://github.com/tthn0/Spotify-Readme/issues/26#issuecomment-2241802622) in [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme)
+4. 🔒 Closed issue [#26](https://github.com/tthn0/Spotify-Readme/issues/26) in [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme)
+5. 🚀 Published release [v1.0.1](https://github.com/Zemerik/Terminal/releases/tag/v1.0.1) in [Zemerik/Terminal](https://github.com/Zemerik/Terminal)
 <!--END_SECTION:activity-->
 
 </details>
