@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.1](https://github.com/Zemerik/ZemShowcase/releases/tag/v2.0.1) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-2. 🗣 Commented on [#9](https://github.com/ahsankhan26/personal-portfolio/issues/9#issuecomment-2244952715) in [ahsankhan26/personal-portfolio](https://github.com/ahsankhan26/personal-portfolio)
-3. 🗣 Commented on [#26](https://github.com/tthn0/Spotify-Readme/issues/26#issuecomment-2241802622) in [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme)
-4. 🔒 Closed issue [#26](https://github.com/tthn0/Spotify-Readme/issues/26) in [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme)
-5. 🚀 Published release [v1.0.1](https://github.com/Zemerik/Terminal/releases/tag/v1.0.1) in [Zemerik/Terminal](https://github.com/Zemerik/Terminal)
+1. 🎉 Merged PR [#5](https://github.com/Zemerik/ZemPosts/pull/5) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+2. 🎉 Merged PR [#6](https://github.com/Zemerik/ZemShowcase/pull/6) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+3. 🎉 Merged PR [#4](https://github.com/Zemerik/ZemShowcase/pull/4) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+4. 🎉 Merged PR [#3](https://github.com/Zemerik/ZemShowcase/pull/3) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+5. 🎉 Merged PR [#2](https://github.com/Zemerik/ZemShowcase/pull/2) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
 <!--END_SECTION:activity-->
 
 </details>
