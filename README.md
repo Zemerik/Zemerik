@@ -163,10 +163,11 @@ const Zemerik = {
            },
   projects: {
                ZemProfiles: "zemprofiles.vercel.app",
-               Sports Stadium: "zemerik.is-a.dev/Sports-Stadium",
-               Portfolio; "zemerik.vercel.app",
+               ZemPosts: "zemposts.vercel.app",
+               ZemShowcase: "zemshowcase.vercel.app",
+               ZemDocs: "zemdocs.vercel.app",
             },
-  Fun Fact: "I am currently exploring Python & Pygame",
+  Fun Fact: "I spend around 5 hours on VSCode every day!",
 }
 ```
 
