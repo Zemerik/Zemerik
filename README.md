@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/Zemerik/ZemProfiles/releases/tag/v1.0.1) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-2. 🎉 Merged PR [#7](https://github.com/Zemerik/ZemShowcase/pull/7) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-3. 🎉 Merged PR [#5](https://github.com/Zemerik/ZemPosts/pull/5) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-4. 🎉 Merged PR [#6](https://github.com/Zemerik/ZemShowcase/pull/6) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-5. 🎉 Merged PR [#4](https://github.com/Zemerik/ZemShowcase/pull/4) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+1. 🎉 Merged PR [#5](https://github.com/Zemerik/ZemDocs/pull/5) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+2. 🎉 Merged PR [#6](https://github.com/Zemerik/ZemDocs/pull/6) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+3. 🎉 Merged PR [#7](https://github.com/Zemerik/ZemDocs/pull/7) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+4. 🔒 Closed issue [#1](https://github.com/Zemerik/Ramanujan/issues/1) in [Zemerik/Ramanujan](https://github.com/Zemerik/Ramanujan)
+5. 🚀 Published release [v1.0.1](https://github.com/Zemerik/ZemProfiles/releases/tag/v1.0.1) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
 <!--END_SECTION:activity-->
 
 </details>
