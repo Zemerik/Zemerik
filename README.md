@@ -149,12 +149,12 @@
 
 <br>
 
-```ts
+```js
 const Zemerik = {
   name: "Hemang Yadav",
   age: "15",
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, Ruby, Python, Java],
+  code: [Javascript, Typescript, Astro, Ruby, Python, Java],
   tools: [ReactJS, NextJS, NodeJS],
   socials: {
               LinkedIN: "in/zemerik",
