@@ -149,7 +149,7 @@
 
 <br>
 
-```js
+```ts
 const Zemerik = {
   name: "Hemang Yadav",
   age: "15",
@@ -177,7 +177,7 @@ const Zemerik = {
   Youtube Videos:
 </h2>
 
-<p align = "center">
+<div align = "center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Introducing: ZemPosts](https://ytcards.demolab.com/?id=1HVd3NTt3f8&title=Introducing%3A+ZemPosts&lang=en&timestamp=1723352391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411 "Introducing: ZemPosts")](https://www.youtube.com/watch?v=1HVd3NTt3f8)
@@ -186,7 +186,7 @@ const Zemerik = {
 [![How to update GitHub Profile README with latest blogs](https://ytcards.demolab.com/?id=As7KgTZOrlE&title=How+to+update+GitHub+Profile+README+with+latest+blogs&lang=en&timestamp=1716288361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=375 "How to update GitHub Profile README with latest blogs")](https://www.youtube.com/watch?v=As7KgTZOrlE)
 <!-- END YOUTUBE-CARDS -->
 
-</p>
+</div>
 
 <br>
 
