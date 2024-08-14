@@ -180,6 +180,7 @@ const Zemerik = {
 <div align = "center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Introducing: Nexus](https://ytcards.demolab.com/?id=6Hk0IL64H_4&title=Introducing%3A+Nexus&lang=en&timestamp=1723624449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=342 "Introducing: Nexus")](https://www.youtube.com/watch?v=6Hk0IL64H_4)
 [![Introducing: ZemPosts](https://ytcards.demolab.com/?id=1HVd3NTt3f8&title=Introducing%3A+ZemPosts&lang=en&timestamp=1723352391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411 "Introducing: ZemPosts")](https://www.youtube.com/watch?v=1HVd3NTt3f8)
 [![Awesome Github Profile](https://ytcards.demolab.com/?id=YoPt46xyJpU&title=Awesome+Github+Profile&lang=en&timestamp=1717904453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42 "Awesome Github Profile")](https://www.youtube.com/watch?v=YoPt46xyJpU)
 [![How to contribute to ZemProfiles?](https://ytcards.demolab.com/?id=Qtm55EaAFPc&title=How+to+contribute+to+ZemProfiles%3F&lang=en&timestamp=1717596771&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=159 "How to contribute to ZemProfiles?")](https://www.youtube.com/watch?v=Qtm55EaAFPc)
