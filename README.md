@@ -26,10 +26,10 @@
   </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [ZemProfiles - v2.0.1 &lpar;Prerelease&rpar;](https://dev.to/zemerik/zemprofiles-v201-prerelease-1mgd)
 - [INTRODUCING ZEMPOSTS](https://dev.to/zemerik/introducing-zemposts-17nb)
 - [Awesome GitHub Profile](https://dev.to/zemerik/awesome-github-profile-5bc5)
 - [INTRODUCING ZEMPROFILES](https://dev.to/zemerik/contribute-to-zemprofiles-55f1)
-- [How to display Latest Blogs on Github Profile?](https://dev.to/zemerik/how-to-display-latest-blogs-on-github-profile-2la5)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
