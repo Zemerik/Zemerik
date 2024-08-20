@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Zemerik/ZemShowcase/issues/10#issuecomment-2295125263) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-2. 🗣 Commented on [#10](https://github.com/Zemerik/ZemShowcase/issues/10#issuecomment-2295121943) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-3. 🔒 Closed issue [#11](https://github.com/Zemerik/ZemShowcase/issues/11) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-4. 🎉 Merged PR [#14](https://github.com/Zemerik/ZemShowcase/pull/14) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-5. 🗣 Commented on [#14](https://github.com/Zemerik/ZemShowcase/pull/14#issuecomment-2295120663) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+1. 🗣 Commented on [#15](https://github.com/Zemerik/ZemShowcase/issues/15#issuecomment-2298287452) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+2. 🔒 Closed issue [#15](https://github.com/Zemerik/ZemShowcase/issues/15) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+3. 🔒 Closed issue [#16](https://github.com/Zemerik/ZemShowcase/issues/16) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+4. 🗣 Commented on [#16](https://github.com/Zemerik/ZemShowcase/issues/16#issuecomment-2298285736) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+5. 🗣 Commented on [#17](https://github.com/Zemerik/ZemShowcase/pull/17#issuecomment-2298251615) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
 <!--END_SECTION:activity-->
 
 </details>
