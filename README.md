@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#52](https://github.com/rainyear/javascript-in-one-pic/issues/52) in [rainyear/javascript-in-one-pic](https://github.com/rainyear/javascript-in-one-pic)
-2. 🎉 Merged PR [#6](https://github.com/Zemerik/ZemPosts/pull/6) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-3. 🎉 Merged PR [#9](https://github.com/Zemerik/ZemShowcase/pull/9) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-4. 🗣 Commented on [#17](https://github.com/Zemerik/ZemShowcase/pull/17#issuecomment-2303979937) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-5. 🗣 Commented on [#17](https://github.com/Zemerik/ZemShowcase/pull/17#issuecomment-2303957529) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+1. 🎉 Merged PR [#10](https://github.com/Zemerik/ZemProfiles/pull/10) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+2. 🎉 Merged PR [#11](https://github.com/Zemerik/ZemProfiles/pull/11) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+3. ❗ Opened issue [#396](https://github.com/WarriorWhoCodes/support/issues/396) in [WarriorWhoCodes/support](https://github.com/WarriorWhoCodes/support)
+4. ❌ Closed PR [#12](https://github.com/Zemerik/ZemProfiles/pull/12) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+5. 🎉 Merged PR [#8](https://github.com/Zemerik/ZemProfiles/pull/8) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
 <!--END_SECTION:activity-->
 
 </details>
