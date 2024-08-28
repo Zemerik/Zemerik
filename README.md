@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Zemerik/ZemProfiles/pull/10) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-2. 🎉 Merged PR [#11](https://github.com/Zemerik/ZemProfiles/pull/11) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-3. ❗ Opened issue [#396](https://github.com/WarriorWhoCodes/support/issues/396) in [WarriorWhoCodes/support](https://github.com/WarriorWhoCodes/support)
-4. ❌ Closed PR [#12](https://github.com/Zemerik/ZemProfiles/pull/12) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-5. 🎉 Merged PR [#8](https://github.com/Zemerik/ZemProfiles/pull/8) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+1. ❗ Opened issue [#4](https://github.com/cgolden15/Slope-Game/issues/4) in [cgolden15/Slope-Game](https://github.com/cgolden15/Slope-Game)
+2. 🎉 Merged PR [#10](https://github.com/Zemerik/ZemProfiles/pull/10) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+3. 🎉 Merged PR [#11](https://github.com/Zemerik/ZemProfiles/pull/11) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+4. ❗ Opened issue [#396](https://github.com/WarriorWhoCodes/support/issues/396) in [WarriorWhoCodes/support](https://github.com/WarriorWhoCodes/support)
+5. ❌ Closed PR [#12](https://github.com/Zemerik/ZemProfiles/pull/12) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
 <!--END_SECTION:activity-->
 
 </details>
