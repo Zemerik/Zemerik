@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Zemerik/ZemDocs/pull/9) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-2. 🎉 Merged PR [#15](https://github.com/Zemerik/ZemProfiles/pull/15) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-3. 🎉 Merged PR [#14](https://github.com/Zemerik/ZemProfiles/pull/14) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-4. ❗ Opened issue [#7](https://github.com/aemmadi/aemmadi/issues/7) in [aemmadi/aemmadi](https://github.com/aemmadi/aemmadi)
-5. 🎉 Merged PR [#19](https://github.com/Zemerik/ZemShowcase/pull/19) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+1. 🚀 Published release [v1.0.2](https://github.com/Zemerik/Portfolio-v2/releases/tag/v1.0.2) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
+2. 🎉 Merged PR [#9](https://github.com/Zemerik/ZemDocs/pull/9) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+3. 🎉 Merged PR [#15](https://github.com/Zemerik/ZemProfiles/pull/15) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+4. 🎉 Merged PR [#14](https://github.com/Zemerik/ZemProfiles/pull/14) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+5. ❗ Opened issue [#7](https://github.com/aemmadi/aemmadi/issues/7) in [aemmadi/aemmadi](https://github.com/aemmadi/aemmadi)
 <!--END_SECTION:activity-->
 
 </details>
