@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Zemerik/ZemPosts/pull/7) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-2. 🎉 Merged PR [#20](https://github.com/Zemerik/ZemShowcase/pull/20) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-3. 🎉 Merged PR [#12](https://github.com/Zemerik/ZemDocs/pull/12) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-4. 🎉 Merged PR [#11](https://github.com/Zemerik/ZemDocs/pull/11) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-5. ❌ Closed PR [#10](https://github.com/Zemerik/ZemDocs/pull/10) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+1. 🚀 Published release [v1.0.2](https://github.com/Zemerik/zemerik.github.io/releases/tag/v1.0.2) in [Zemerik/zemerik.github.io](https://github.com/Zemerik/zemerik.github.io)
+2. 🎉 Merged PR [#7](https://github.com/Zemerik/ZemPosts/pull/7) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+3. 🎉 Merged PR [#20](https://github.com/Zemerik/ZemShowcase/pull/20) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+4. 🎉 Merged PR [#12](https://github.com/Zemerik/ZemDocs/pull/12) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+5. 🎉 Merged PR [#11](https://github.com/Zemerik/ZemDocs/pull/11) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
 <!--END_SECTION:activity-->
 
 </details>
