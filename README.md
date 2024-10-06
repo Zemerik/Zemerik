@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/soumyajiitt/Portfolio/issues/1) in [soumyajiitt/Portfolio](https://github.com/soumyajiitt/Portfolio)
-2. 🎉 Merged PR [#5](https://github.com/Zemerik/Portfolio-v2/pull/5) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
-3. 🚀 Published release [v1.2.1](https://github.com/Zemerik/zemerik.github.io/releases/tag/v1.2.1) in [Zemerik/zemerik.github.io](https://github.com/Zemerik/zemerik.github.io)
-4. 🎉 Merged PR [#13](https://github.com/Zemerik/ZemDocs/pull/13) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-5. 🎉 Merged PR [#20](https://github.com/Zemerik/ZemProfiles/pull/20) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+1. 💪 Opened PR [#3118](https://github.com/fineanmol/hacktoberfest/pull/3118) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+2. ❗ Opened issue [#1](https://github.com/soumyajiitt/Portfolio/issues/1) in [soumyajiitt/Portfolio](https://github.com/soumyajiitt/Portfolio)
+3. 🎉 Merged PR [#5](https://github.com/Zemerik/Portfolio-v2/pull/5) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
+4. 🚀 Published release [v1.2.1](https://github.com/Zemerik/zemerik.github.io/releases/tag/v1.2.1) in [Zemerik/zemerik.github.io](https://github.com/Zemerik/zemerik.github.io)
+5. 🎉 Merged PR [#13](https://github.com/Zemerik/ZemDocs/pull/13) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
 <!--END_SECTION:activity-->
 
 </details>
