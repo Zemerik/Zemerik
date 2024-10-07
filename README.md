@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Zemerik/ZemProfiles/pull/21) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-2. ❌ Closed PR [#89](https://github.com/mmuhamadamirzaidi/Hacktoberfest/pull/89) in [mmuhamadamirzaidi/Hacktoberfest](https://github.com/mmuhamadamirzaidi/Hacktoberfest)
-3. ❌ Closed PR [#19](https://github.com/DSCFutminna/hacktoberfest-html/pull/19) in [DSCFutminna/hacktoberfest-html](https://github.com/DSCFutminna/hacktoberfest-html)
-4. 💪 Opened PR [#236](https://github.com/Kushal997-das/Hacktoberfest-2024/pull/236) in [Kushal997-das/Hacktoberfest-2024](https://github.com/Kushal997-das/Hacktoberfest-2024)
-5. ❗ Opened issue [#235](https://github.com/Kushal997-das/Hacktoberfest-2024/issues/235) in [Kushal997-das/Hacktoberfest-2024](https://github.com/Kushal997-das/Hacktoberfest-2024)
+1. 🗣 Commented on [#147](https://github.com/Gyanthakur/Dev_Profiles/pull/147#issuecomment-2395464596) in [Gyanthakur/Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles)
+2. 🗣 Commented on [#147](https://github.com/Gyanthakur/Dev_Profiles/pull/147#issuecomment-2395457739) in [Gyanthakur/Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles)
+3. 🎉 Merged PR [#21](https://github.com/Zemerik/ZemProfiles/pull/21) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+4. ❌ Closed PR [#89](https://github.com/mmuhamadamirzaidi/Hacktoberfest/pull/89) in [mmuhamadamirzaidi/Hacktoberfest](https://github.com/mmuhamadamirzaidi/Hacktoberfest)
+5. ❌ Closed PR [#19](https://github.com/DSCFutminna/hacktoberfest-html/pull/19) in [DSCFutminna/hacktoberfest-html](https://github.com/DSCFutminna/hacktoberfest-html)
 <!--END_SECTION:activity-->
 
 </details>
