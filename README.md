@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/Gyanthakur/Dev_Profiles/pull/147#issuecomment-2395464596) in [Gyanthakur/Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles)
-2. 🗣 Commented on [#147](https://github.com/Gyanthakur/Dev_Profiles/pull/147#issuecomment-2395457739) in [Gyanthakur/Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles)
-3. 🎉 Merged PR [#21](https://github.com/Zemerik/ZemProfiles/pull/21) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-4. ❌ Closed PR [#89](https://github.com/mmuhamadamirzaidi/Hacktoberfest/pull/89) in [mmuhamadamirzaidi/Hacktoberfest](https://github.com/mmuhamadamirzaidi/Hacktoberfest)
-5. ❌ Closed PR [#19](https://github.com/DSCFutminna/hacktoberfest-html/pull/19) in [DSCFutminna/hacktoberfest-html](https://github.com/DSCFutminna/hacktoberfest-html)
+1. ❗ Opened issue [#35](https://github.com/thecyberworld/community/issues/35) in [thecyberworld/community](https://github.com/thecyberworld/community)
+2. ❌ Closed PR [#236](https://github.com/Kushal997-das/Hacktoberfest-2024/pull/236) in [Kushal997-das/Hacktoberfest-2024](https://github.com/Kushal997-das/Hacktoberfest-2024)
+3. ❌ Closed PR [#3118](https://github.com/fineanmol/hacktoberfest/pull/3118) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+4. ❌ Closed PR [#11802](https://github.com/AliceWonderland/hacktoberfest/pull/11802) in [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
+5. 🗣 Commented on [#147](https://github.com/Gyanthakur/Dev_Profiles/pull/147#issuecomment-2396266185) in [Gyanthakur/Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles)
 <!--END_SECTION:activity-->
 
 </details>
