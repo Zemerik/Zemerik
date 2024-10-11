@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35](https://github.com/thecyberworld/community/issues/35) in [thecyberworld/community](https://github.com/thecyberworld/community)
-2. ❌ Closed PR [#236](https://github.com/Kushal997-das/Hacktoberfest-2024/pull/236) in [Kushal997-das/Hacktoberfest-2024](https://github.com/Kushal997-das/Hacktoberfest-2024)
-3. ❌ Closed PR [#3118](https://github.com/fineanmol/hacktoberfest/pull/3118) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-4. ❌ Closed PR [#11802](https://github.com/AliceWonderland/hacktoberfest/pull/11802) in [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
-5. 🗣 Commented on [#147](https://github.com/Gyanthakur/Dev_Profiles/pull/147#issuecomment-2396266185) in [Gyanthakur/Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles)
+1. 💪 Opened PR [#86](https://github.com/rajatuiwebdev/badge-website/pull/86) in [rajatuiwebdev/badge-website](https://github.com/rajatuiwebdev/badge-website)
+2. ❗ Opened issue [#85](https://github.com/rajatuiwebdev/badge-website/issues/85) in [rajatuiwebdev/badge-website](https://github.com/rajatuiwebdev/badge-website)
+3. 🗣 Commented on [#88](https://github.com/C0D1NG/Profile/pull/88#issuecomment-2404371840) in [C0D1NG/Profile](https://github.com/C0D1NG/Profile)
+4. 🔒 Closed issue [#10](https://github.com/Zemerik/ZemShowcase/issues/10) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+5. 🎉 Merged PR [#21](https://github.com/Zemerik/ZemShowcase/pull/21) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
 <!--END_SECTION:activity-->
 
 </details>
