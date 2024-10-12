@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/rajatuiwebdev/badge-website/pull/86) in [rajatuiwebdev/badge-website](https://github.com/rajatuiwebdev/badge-website)
-2. ❗ Opened issue [#85](https://github.com/rajatuiwebdev/badge-website/issues/85) in [rajatuiwebdev/badge-website](https://github.com/rajatuiwebdev/badge-website)
-3. 🗣 Commented on [#88](https://github.com/C0D1NG/Profile/pull/88#issuecomment-2404371840) in [C0D1NG/Profile](https://github.com/C0D1NG/Profile)
-4. 🔒 Closed issue [#10](https://github.com/Zemerik/ZemShowcase/issues/10) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-5. 🎉 Merged PR [#21](https://github.com/Zemerik/ZemShowcase/pull/21) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+1. 💪 Opened PR [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
+2. 🗣 Commented on [#33](https://github.com/abhisek247767/Hello-World/pull/33#issuecomment-2406863608) in [abhisek247767/Hello-World](https://github.com/abhisek247767/Hello-World)
+3. 💪 Opened PR [#86](https://github.com/rajatuiwebdev/badge-website/pull/86) in [rajatuiwebdev/badge-website](https://github.com/rajatuiwebdev/badge-website)
+4. ❗ Opened issue [#85](https://github.com/rajatuiwebdev/badge-website/issues/85) in [rajatuiwebdev/badge-website](https://github.com/rajatuiwebdev/badge-website)
+5. 🗣 Commented on [#88](https://github.com/C0D1NG/Profile/pull/88#issuecomment-2404371840) in [C0D1NG/Profile](https://github.com/C0D1NG/Profile)
 <!--END_SECTION:activity-->
 
 </details>
