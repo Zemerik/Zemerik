@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/C0D1NG/Profile/pull/88#issuecomment-2408991143) in [C0D1NG/Profile](https://github.com/C0D1NG/Profile)
-2. 💪 Opened PR [#55](https://github.com/GeekGiggle/hacktoberfest/pull/55) in [GeekGiggle/hacktoberfest](https://github.com/GeekGiggle/hacktoberfest)
-3. 💪 Opened PR [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
-4. 🗣 Commented on [#33](https://github.com/abhisek247767/Hello-World/pull/33#issuecomment-2406863608) in [abhisek247767/Hello-World](https://github.com/abhisek247767/Hello-World)
-5. 💪 Opened PR [#86](https://github.com/rajatuiwebdev/badge-website/pull/86) in [rajatuiwebdev/badge-website](https://github.com/rajatuiwebdev/badge-website)
+1. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemProfiles/pull/22) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+2. 🎉 Merged PR [#9](https://github.com/Zemerik/ZemPosts/pull/9) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+3. 🗣 Commented on [#88](https://github.com/C0D1NG/Profile/pull/88#issuecomment-2408991143) in [C0D1NG/Profile](https://github.com/C0D1NG/Profile)
+4. 💪 Opened PR [#55](https://github.com/GeekGiggle/hacktoberfest/pull/55) in [GeekGiggle/hacktoberfest](https://github.com/GeekGiggle/hacktoberfest)
+5. 💪 Opened PR [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
 <!--END_SECTION:activity-->
 
 </details>
