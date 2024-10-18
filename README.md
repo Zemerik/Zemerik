@@ -26,10 +26,10 @@
   </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey with Hacktoberfest 2024](https://dev.to/zemerik/my-journey-with-hacktoberfest-2024-nce)
 - [ZemProfiles - v2.0.1 &lpar;Prerelease&rpar;](https://dev.to/zemerik/zemprofiles-v201-prerelease-1mgd)
 - [INTRODUCING ZEMPOSTS](https://dev.to/zemerik/introducing-zemposts-17nb)
 - [Awesome GitHub Profile](https://dev.to/zemerik/awesome-github-profile-5bc5)
-- [INTRODUCING ZEMPROFILES](https://dev.to/zemerik/contribute-to-zemprofiles-55f1)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
