@@ -64,6 +64,18 @@
 
 <details>
   <summary>
+    📰Badges
+  </summary>
+
+<br>
+
+![Holopin Stats](https://holopin.me/zemerik)
+
+  
+</details>
+
+<details>
+  <summary>
     🎓My Stats
   </summary>
 
