@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemProfiles/pull/22) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-2. 🎉 Merged PR [#9](https://github.com/Zemerik/ZemPosts/pull/9) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-3. 🗣 Commented on [#88](https://github.com/C0D1NG/Profile/pull/88#issuecomment-2408991143) in [C0D1NG/Profile](https://github.com/C0D1NG/Profile)
-4. 💪 Opened PR [#55](https://github.com/GeekGiggle/hacktoberfest/pull/55) in [GeekGiggle/hacktoberfest](https://github.com/GeekGiggle/hacktoberfest)
-5. 💪 Opened PR [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
+1. ❗ Opened issue [#1](https://github.com/Gyanthakur/CureConnect/issues/1) in [Gyanthakur/CureConnect](https://github.com/Gyanthakur/CureConnect)
+2. ❗ Opened issue [#1](https://github.com/Terieyenike/pinata-next-with-openai/issues/1) in [Terieyenike/pinata-next-with-openai](https://github.com/Terieyenike/pinata-next-with-openai)
+3. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemProfiles/pull/22) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+4. 🎉 Merged PR [#9](https://github.com/Zemerik/ZemPosts/pull/9) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+5. 🗣 Commented on [#88](https://github.com/C0D1NG/Profile/pull/88#issuecomment-2408991143) in [C0D1NG/Profile](https://github.com/C0D1NG/Profile)
 <!--END_SECTION:activity-->
 
 </details>
