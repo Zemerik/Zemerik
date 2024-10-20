@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/Zemerik/ZemDocs/pull/14) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-2. ❗ Opened issue [#1](https://github.com/Gyanthakur/CureConnect/issues/1) in [Gyanthakur/CureConnect](https://github.com/Gyanthakur/CureConnect)
-3. ❗ Opened issue [#1](https://github.com/Terieyenike/pinata-next-with-openai/issues/1) in [Terieyenike/pinata-next-with-openai](https://github.com/Terieyenike/pinata-next-with-openai)
-4. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemProfiles/pull/22) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-5. 🎉 Merged PR [#9](https://github.com/Zemerik/ZemPosts/pull/9) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+1. 🗣 Commented on [#23](https://github.com/Zemerik/ZemProfiles/pull/23#issuecomment-2424696895) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+2. 🎉 Merged PR [#23](https://github.com/Zemerik/ZemProfiles/pull/23) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+3. 💪 Opened PR [#123](https://github.com/Uncodedtech/Join_Org/pull/123) in [Uncodedtech/Join_Org](https://github.com/Uncodedtech/Join_Org)
+4. ❗ Opened issue [#23](https://github.com/PriyanshOrg/join/issues/23) in [PriyanshOrg/join](https://github.com/PriyanshOrg/join)
+5. 🎉 Merged PR [#10](https://github.com/Zemerik/ZemPosts/pull/10) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
 <!--END_SECTION:activity-->
 
 </details>
