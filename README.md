@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Gyanthakur/CureConnect/issues/1) in [Gyanthakur/CureConnect](https://github.com/Gyanthakur/CureConnect)
-2. ❗ Opened issue [#1](https://github.com/Terieyenike/pinata-next-with-openai/issues/1) in [Terieyenike/pinata-next-with-openai](https://github.com/Terieyenike/pinata-next-with-openai)
-3. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemProfiles/pull/22) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-4. 🎉 Merged PR [#9](https://github.com/Zemerik/ZemPosts/pull/9) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-5. 🗣 Commented on [#88](https://github.com/C0D1NG/Profile/pull/88#issuecomment-2408991143) in [C0D1NG/Profile](https://github.com/C0D1NG/Profile)
+1. ❌ Closed PR [#14](https://github.com/Zemerik/ZemDocs/pull/14) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+2. ❗ Opened issue [#1](https://github.com/Gyanthakur/CureConnect/issues/1) in [Gyanthakur/CureConnect](https://github.com/Gyanthakur/CureConnect)
+3. ❗ Opened issue [#1](https://github.com/Terieyenike/pinata-next-with-openai/issues/1) in [Terieyenike/pinata-next-with-openai](https://github.com/Terieyenike/pinata-next-with-openai)
+4. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemProfiles/pull/22) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+5. 🎉 Merged PR [#9](https://github.com/Zemerik/ZemPosts/pull/9) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
 <!--END_SECTION:activity-->
 
 </details>
