@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/Hamx9/Simple-html-portfolio/issues/4) in [Hamx9/Simple-html-portfolio](https://github.com/Hamx9/Simple-html-portfolio)
-2. 🗣 Commented on [#23](https://github.com/Zemerik/ZemProfiles/pull/23#issuecomment-2424696895) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-3. 🎉 Merged PR [#23](https://github.com/Zemerik/ZemProfiles/pull/23) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-4. 💪 Opened PR [#123](https://github.com/Uncodedtech/Join_Org/pull/123) in [Uncodedtech/Join_Org](https://github.com/Uncodedtech/Join_Org)
-5. ❗ Opened issue [#23](https://github.com/PriyanshOrg/join/issues/23) in [PriyanshOrg/join](https://github.com/PriyanshOrg/join)
+1. 🗣 Commented on [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182#issuecomment-2433570895) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
+2. ❗ Opened issue [#4](https://github.com/Hamx9/Simple-html-portfolio/issues/4) in [Hamx9/Simple-html-portfolio](https://github.com/Hamx9/Simple-html-portfolio)
+3. 🗣 Commented on [#23](https://github.com/Zemerik/ZemProfiles/pull/23#issuecomment-2424696895) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+4. 🎉 Merged PR [#23](https://github.com/Zemerik/ZemProfiles/pull/23) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+5. 💪 Opened PR [#123](https://github.com/Uncodedtech/Join_Org/pull/123) in [Uncodedtech/Join_Org](https://github.com/Uncodedtech/Join_Org)
 <!--END_SECTION:activity-->
 
 </details>
