@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/Zemerik/ZemProfiles/pull/24#issuecomment-2439425438) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-2. 🗣 Commented on [#1](https://github.com/Gyanthakur/CureConnect/issues/1#issuecomment-2436533116) in [Gyanthakur/CureConnect](https://github.com/Gyanthakur/CureConnect)
-3. 🗣 Commented on [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182#issuecomment-2433570895) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
-4. ❗ Opened issue [#4](https://github.com/Hamx9/Simple-html-portfolio/issues/4) in [Hamx9/Simple-html-portfolio](https://github.com/Hamx9/Simple-html-portfolio)
-5. 🗣 Commented on [#23](https://github.com/Zemerik/ZemProfiles/pull/23#issuecomment-2424696895) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+1. 🎉 Merged PR [#24](https://github.com/Zemerik/ZemProfiles/pull/24) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+2. 🗣 Commented on [#24](https://github.com/Zemerik/ZemProfiles/pull/24#issuecomment-2439867016) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+3. 🗣 Commented on [#24](https://github.com/Zemerik/ZemProfiles/pull/24#issuecomment-2439425438) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+4. 🗣 Commented on [#1](https://github.com/Gyanthakur/CureConnect/issues/1#issuecomment-2436533116) in [Gyanthakur/CureConnect](https://github.com/Gyanthakur/CureConnect)
+5. 🗣 Commented on [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182#issuecomment-2433570895) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
 <!--END_SECTION:activity-->
 
 </details>
