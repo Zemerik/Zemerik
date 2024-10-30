@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Zemerik/ZemProfiles/pull/24) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-2. 🗣 Commented on [#24](https://github.com/Zemerik/ZemProfiles/pull/24#issuecomment-2439867016) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-3. 🗣 Commented on [#24](https://github.com/Zemerik/ZemProfiles/pull/24#issuecomment-2439425438) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-4. 🗣 Commented on [#1](https://github.com/Gyanthakur/CureConnect/issues/1#issuecomment-2436533116) in [Gyanthakur/CureConnect](https://github.com/Gyanthakur/CureConnect)
-5. 🗣 Commented on [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182#issuecomment-2433570895) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
+1. 🔒 Closed issue [#11](https://github.com/akshitagit/Join-organization/issues/11) in [akshitagit/Join-organization](https://github.com/akshitagit/Join-organization)
+2. ❗ Opened issue [#11](https://github.com/akshitagit/Join-organization/issues/11) in [akshitagit/Join-organization](https://github.com/akshitagit/Join-organization)
+3. ❗ Opened issue [#630](https://github.com/OpenGenus/Join_OpenGenus/issues/630) in [OpenGenus/Join_OpenGenus](https://github.com/OpenGenus/Join_OpenGenus)
+4. 🎉 Merged PR [#24](https://github.com/Zemerik/ZemProfiles/pull/24) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+5. 🗣 Commented on [#24](https://github.com/Zemerik/ZemProfiles/pull/24#issuecomment-2439867016) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
 <!--END_SECTION:activity-->
 
 </details>
