@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/DeekshithKGowda/deekshithkgowda.github.io/issues/1) in [DeekshithKGowda/deekshithkgowda.github.io](https://github.com/DeekshithKGowda/deekshithkgowda.github.io)
-2. 🔒 Closed issue [#11](https://github.com/akshitagit/Join-organization/issues/11) in [akshitagit/Join-organization](https://github.com/akshitagit/Join-organization)
-3. ❗ Opened issue [#11](https://github.com/akshitagit/Join-organization/issues/11) in [akshitagit/Join-organization](https://github.com/akshitagit/Join-organization)
-4. ❗ Opened issue [#630](https://github.com/OpenGenus/Join_OpenGenus/issues/630) in [OpenGenus/Join_OpenGenus](https://github.com/OpenGenus/Join_OpenGenus)
-5. 🎉 Merged PR [#24](https://github.com/Zemerik/ZemProfiles/pull/24) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+1. ❗ Opened issue [#8](https://github.com/bedimcode/responsive-portfolio-website-JhonDoe/issues/8) in [bedimcode/responsive-portfolio-website-JhonDoe](https://github.com/bedimcode/responsive-portfolio-website-JhonDoe)
+2. ❗ Opened issue [#1](https://github.com/DeekshithKGowda/deekshithkgowda.github.io/issues/1) in [DeekshithKGowda/deekshithkgowda.github.io](https://github.com/DeekshithKGowda/deekshithkgowda.github.io)
+3. 🔒 Closed issue [#11](https://github.com/akshitagit/Join-organization/issues/11) in [akshitagit/Join-organization](https://github.com/akshitagit/Join-organization)
+4. ❗ Opened issue [#11](https://github.com/akshitagit/Join-organization/issues/11) in [akshitagit/Join-organization](https://github.com/akshitagit/Join-organization)
+5. ❗ Opened issue [#630](https://github.com/OpenGenus/Join_OpenGenus/issues/630) in [OpenGenus/Join_OpenGenus](https://github.com/OpenGenus/Join_OpenGenus)
 <!--END_SECTION:activity-->
 
 </details>
