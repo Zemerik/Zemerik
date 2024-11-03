@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/bedimcode/responsive-portfolio-website-JhonDoe/issues/8) in [bedimcode/responsive-portfolio-website-JhonDoe](https://github.com/bedimcode/responsive-portfolio-website-JhonDoe)
-2. ❗ Opened issue [#1](https://github.com/DeekshithKGowda/deekshithkgowda.github.io/issues/1) in [DeekshithKGowda/deekshithkgowda.github.io](https://github.com/DeekshithKGowda/deekshithkgowda.github.io)
-3. 🔒 Closed issue [#11](https://github.com/akshitagit/Join-organization/issues/11) in [akshitagit/Join-organization](https://github.com/akshitagit/Join-organization)
-4. ❗ Opened issue [#11](https://github.com/akshitagit/Join-organization/issues/11) in [akshitagit/Join-organization](https://github.com/akshitagit/Join-organization)
-5. ❗ Opened issue [#630](https://github.com/OpenGenus/Join_OpenGenus/issues/630) in [OpenGenus/Join_OpenGenus](https://github.com/OpenGenus/Join_OpenGenus)
+1. ❗ Opened issue [#1199](https://github.com/recodehive/awesome-github-profiles/issues/1199) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+2. 💪 Opened PR [#1198](https://github.com/recodehive/awesome-github-profiles/pull/1198) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+3. ❗ Opened issue [#1197](https://github.com/recodehive/awesome-github-profiles/issues/1197) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+4. ❗ Opened issue [#394](https://github.com/recodehive/Support/issues/394) in [recodehive/Support](https://github.com/recodehive/Support)
+5. ❗ Opened issue [#8](https://github.com/bedimcode/responsive-portfolio-website-JhonDoe/issues/8) in [bedimcode/responsive-portfolio-website-JhonDoe](https://github.com/bedimcode/responsive-portfolio-website-JhonDoe)
 <!--END_SECTION:activity-->
 
 </details>
