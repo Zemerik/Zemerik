@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1199](https://github.com/recodehive/awesome-github-profiles/issues/1199) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-2. 💪 Opened PR [#1198](https://github.com/recodehive/awesome-github-profiles/pull/1198) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-3. ❗ Opened issue [#1197](https://github.com/recodehive/awesome-github-profiles/issues/1197) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-4. ❗ Opened issue [#394](https://github.com/recodehive/Support/issues/394) in [recodehive/Support](https://github.com/recodehive/Support)
-5. ❗ Opened issue [#8](https://github.com/bedimcode/responsive-portfolio-website-JhonDoe/issues/8) in [bedimcode/responsive-portfolio-website-JhonDoe](https://github.com/bedimcode/responsive-portfolio-website-JhonDoe)
+1. 🗣 Commented on [#1198](https://github.com/recodehive/awesome-github-profiles/pull/1198#issuecomment-2453884751) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+2. ❗ Opened issue [#1199](https://github.com/recodehive/awesome-github-profiles/issues/1199) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+3. 💪 Opened PR [#1198](https://github.com/recodehive/awesome-github-profiles/pull/1198) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+4. ❗ Opened issue [#1197](https://github.com/recodehive/awesome-github-profiles/issues/1197) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+5. ❗ Opened issue [#394](https://github.com/recodehive/Support/issues/394) in [recodehive/Support](https://github.com/recodehive/Support)
 <!--END_SECTION:activity-->
 
 </details>
