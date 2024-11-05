@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1198](https://github.com/recodehive/awesome-github-profiles/pull/1198#issuecomment-2453884751) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-2. ❗ Opened issue [#1199](https://github.com/recodehive/awesome-github-profiles/issues/1199) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-3. 💪 Opened PR [#1198](https://github.com/recodehive/awesome-github-profiles/pull/1198) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-4. ❗ Opened issue [#1197](https://github.com/recodehive/awesome-github-profiles/issues/1197) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-5. ❗ Opened issue [#394](https://github.com/recodehive/Support/issues/394) in [recodehive/Support](https://github.com/recodehive/Support)
+1. ❌ Closed PR [#123](https://github.com/Uncodedtech/Join_Org/pull/123) in [Uncodedtech/Join_Org](https://github.com/Uncodedtech/Join_Org)
+2. 🗣 Commented on [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182#issuecomment-2454476980) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
+3. ❌ Closed PR [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
+4. 🗣 Commented on [#1198](https://github.com/recodehive/awesome-github-profiles/pull/1198#issuecomment-2453884751) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+5. ❗ Opened issue [#1199](https://github.com/recodehive/awesome-github-profiles/issues/1199) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 </details>
