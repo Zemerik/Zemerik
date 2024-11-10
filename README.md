@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#135](https://github.com/Kushal997-das/SkillShow/issues/135) in [Kushal997-das/SkillShow](https://github.com/Kushal997-das/SkillShow)
-2. ❗ Opened issue [#846](https://github.com/SUGAM-ARORA/UniCollab/issues/846) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
-3. ❌ Closed PR [#123](https://github.com/Uncodedtech/Join_Org/pull/123) in [Uncodedtech/Join_Org](https://github.com/Uncodedtech/Join_Org)
-4. 🗣 Commented on [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182#issuecomment-2454476980) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
-5. ❌ Closed PR [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
+1. ❗ Opened issue [#55](https://github.com/lxmn-22/Leetcode-Questions/issues/55) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
+2. ❗ Opened issue [#135](https://github.com/Kushal997-das/SkillShow/issues/135) in [Kushal997-das/SkillShow](https://github.com/Kushal997-das/SkillShow)
+3. ❗ Opened issue [#846](https://github.com/SUGAM-ARORA/UniCollab/issues/846) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
+4. ❌ Closed PR [#123](https://github.com/Uncodedtech/Join_Org/pull/123) in [Uncodedtech/Join_Org](https://github.com/Uncodedtech/Join_Org)
+5. 🗣 Commented on [#182](https://github.com/LoginRadius/awesome-login-pages/pull/182#issuecomment-2454476980) in [LoginRadius/awesome-login-pages](https://github.com/LoginRadius/awesome-login-pages)
 <!--END_SECTION:activity-->
 
 </details>
