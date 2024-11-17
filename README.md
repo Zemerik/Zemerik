@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#135](https://github.com/R0Y15/WeatherNow/issues/135) in [R0Y15/WeatherNow](https://github.com/R0Y15/WeatherNow)
-2. 🗣 Commented on [#55](https://github.com/lxmn-22/Leetcode-Questions/issues/55#issuecomment-2467685245) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
-3. ❗ Opened issue [#55](https://github.com/lxmn-22/Leetcode-Questions/issues/55) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
-4. ❗ Opened issue [#135](https://github.com/Kushal997-das/SkillShow/issues/135) in [Kushal997-das/SkillShow](https://github.com/Kushal997-das/SkillShow)
-5. ❗ Opened issue [#846](https://github.com/SUGAM-ARORA/UniCollab/issues/846) in [SUGAM-ARORA/UniCollab](https://github.com/SUGAM-ARORA/UniCollab)
+1. 🚀 Published release [v3.0.1](https://github.com/Zemerik/Portfolio-Template/releases/tag/v3.0.1) in [Zemerik/Portfolio-Template](https://github.com/Zemerik/Portfolio-Template)
+2. ❗ Opened issue [#135](https://github.com/R0Y15/WeatherNow/issues/135) in [R0Y15/WeatherNow](https://github.com/R0Y15/WeatherNow)
+3. 🗣 Commented on [#55](https://github.com/lxmn-22/Leetcode-Questions/issues/55#issuecomment-2467685245) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
+4. ❗ Opened issue [#55](https://github.com/lxmn-22/Leetcode-Questions/issues/55) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
+5. ❗ Opened issue [#135](https://github.com/Kushal997-das/SkillShow/issues/135) in [Kushal997-das/SkillShow](https://github.com/Kushal997-das/SkillShow)
 <!--END_SECTION:activity-->
 
 </details>
