@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/lxmn-22/Leetcode-Questions/pull/76) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
-2. 🗣 Commented on [#135](https://github.com/R0Y15/WeatherNow/issues/135#issuecomment-2495214225) in [R0Y15/WeatherNow](https://github.com/R0Y15/WeatherNow)
-3. 🗣 Commented on [#55](https://github.com/lxmn-22/Leetcode-Questions/issues/55#issuecomment-2495214020) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
-4. 🔒 Closed issue [#1](https://github.com/Zemerik/Portfolio-Template/issues/1) in [Zemerik/Portfolio-Template](https://github.com/Zemerik/Portfolio-Template)
-5. 🗣 Commented on [#1](https://github.com/Zemerik/Portfolio-Template/issues/1#issuecomment-2484000691) in [Zemerik/Portfolio-Template](https://github.com/Zemerik/Portfolio-Template)
+1. ❗ Opened issue [#1](https://github.com/princepatelcodes/react_chakra_portfolio/issues/1) in [princepatelcodes/react_chakra_portfolio](https://github.com/princepatelcodes/react_chakra_portfolio)
+2. 💪 Opened PR [#76](https://github.com/lxmn-22/Leetcode-Questions/pull/76) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
+3. 🗣 Commented on [#135](https://github.com/R0Y15/WeatherNow/issues/135#issuecomment-2495214225) in [R0Y15/WeatherNow](https://github.com/R0Y15/WeatherNow)
+4. 🗣 Commented on [#55](https://github.com/lxmn-22/Leetcode-Questions/issues/55#issuecomment-2495214020) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
+5. 🔒 Closed issue [#1](https://github.com/Zemerik/Portfolio-Template/issues/1) in [Zemerik/Portfolio-Template](https://github.com/Zemerik/Portfolio-Template)
 <!--END_SECTION:activity-->
 
 </details>
