@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/rakeshid03/about-me/issues/5) in [rakeshid03/about-me](https://github.com/rakeshid03/about-me)
-2. ❗ Opened issue [#1](https://github.com/princepatelcodes/react_chakra_portfolio/issues/1) in [princepatelcodes/react_chakra_portfolio](https://github.com/princepatelcodes/react_chakra_portfolio)
-3. 💪 Opened PR [#76](https://github.com/lxmn-22/Leetcode-Questions/pull/76) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
-4. 🗣 Commented on [#135](https://github.com/R0Y15/WeatherNow/issues/135#issuecomment-2495214225) in [R0Y15/WeatherNow](https://github.com/R0Y15/WeatherNow)
-5. 🗣 Commented on [#55](https://github.com/lxmn-22/Leetcode-Questions/issues/55#issuecomment-2495214020) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
+1. ❗ Opened issue [#157](https://github.com/GrowInCommunity/support/issues/157) in [GrowInCommunity/support](https://github.com/GrowInCommunity/support)
+2. ❗ Opened issue [#5](https://github.com/rakeshid03/about-me/issues/5) in [rakeshid03/about-me](https://github.com/rakeshid03/about-me)
+3. ❗ Opened issue [#1](https://github.com/princepatelcodes/react_chakra_portfolio/issues/1) in [princepatelcodes/react_chakra_portfolio](https://github.com/princepatelcodes/react_chakra_portfolio)
+4. 💪 Opened PR [#76](https://github.com/lxmn-22/Leetcode-Questions/pull/76) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
+5. 🗣 Commented on [#135](https://github.com/R0Y15/WeatherNow/issues/135#issuecomment-2495214225) in [R0Y15/WeatherNow](https://github.com/R0Y15/WeatherNow)
 <!--END_SECTION:activity-->
 
 </details>
