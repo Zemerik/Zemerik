@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/malik-umar2/tribute2stevejobs/issues/1) in [malik-umar2/tribute2stevejobs](https://github.com/malik-umar2/tribute2stevejobs)
-2. ❗ Opened issue [#157](https://github.com/GrowInCommunity/support/issues/157) in [GrowInCommunity/support](https://github.com/GrowInCommunity/support)
-3. ❗ Opened issue [#5](https://github.com/rakeshid03/about-me/issues/5) in [rakeshid03/about-me](https://github.com/rakeshid03/about-me)
-4. ❗ Opened issue [#1](https://github.com/princepatelcodes/react_chakra_portfolio/issues/1) in [princepatelcodes/react_chakra_portfolio](https://github.com/princepatelcodes/react_chakra_portfolio)
-5. 💪 Opened PR [#76](https://github.com/lxmn-22/Leetcode-Questions/pull/76) in [lxmn-22/Leetcode-Questions](https://github.com/lxmn-22/Leetcode-Questions)
+1. 🎉 Merged PR [#25](https://github.com/Zemerik/ZemProfiles/pull/25) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+2. ❗ Opened issue [#1](https://github.com/malik-umar2/tribute2stevejobs/issues/1) in [malik-umar2/tribute2stevejobs](https://github.com/malik-umar2/tribute2stevejobs)
+3. ❗ Opened issue [#157](https://github.com/GrowInCommunity/support/issues/157) in [GrowInCommunity/support](https://github.com/GrowInCommunity/support)
+4. ❗ Opened issue [#5](https://github.com/rakeshid03/about-me/issues/5) in [rakeshid03/about-me](https://github.com/rakeshid03/about-me)
+5. ❗ Opened issue [#1](https://github.com/princepatelcodes/react_chakra_portfolio/issues/1) in [princepatelcodes/react_chakra_portfolio](https://github.com/princepatelcodes/react_chakra_portfolio)
 <!--END_SECTION:activity-->
 
 </details>
