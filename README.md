@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Zemerik/ZemPosts/pull/11) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-2. 🎉 Merged PR [#26](https://github.com/Zemerik/ZemProfiles/pull/26) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-3. 🎉 Merged PR [#25](https://github.com/Zemerik/ZemProfiles/pull/25) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-4. ❗ Opened issue [#1](https://github.com/malik-umar2/tribute2stevejobs/issues/1) in [malik-umar2/tribute2stevejobs](https://github.com/malik-umar2/tribute2stevejobs)
-5. ❗ Opened issue [#157](https://github.com/GrowInCommunity/support/issues/157) in [GrowInCommunity/support](https://github.com/GrowInCommunity/support)
+1. 🎉 Merged PR [#15](https://github.com/Zemerik/ZemDocs/pull/15) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+2. 🎉 Merged PR [#11](https://github.com/Zemerik/ZemPosts/pull/11) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+3. 🎉 Merged PR [#26](https://github.com/Zemerik/ZemProfiles/pull/26) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+4. 🎉 Merged PR [#25](https://github.com/Zemerik/ZemProfiles/pull/25) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+5. ❗ Opened issue [#1](https://github.com/malik-umar2/tribute2stevejobs/issues/1) in [malik-umar2/tribute2stevejobs](https://github.com/malik-umar2/tribute2stevejobs)
 <!--END_SECTION:activity-->
 
 </details>
