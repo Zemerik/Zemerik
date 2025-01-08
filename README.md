@@ -109,6 +109,12 @@
 
 <br>
 
+<p align = "center">
+
+<img src = "npm-package/assets/installation.png" style = "height: 100px; width: 500px;">
+
+</p>
+
 <p align="center">
   
   <a href = "https://x.com/Zemerik_X" style = "text-decoration:none">
