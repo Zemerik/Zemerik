@@ -161,7 +161,7 @@
 
 <br>
 
-```js
+```jsx
 const Zemerik = {
   name: "Hemang Yadav",
   age: "15",
