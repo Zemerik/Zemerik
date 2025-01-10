@@ -4,7 +4,7 @@
 const inquirer = require("inquirer");
 const chalk = require("chalk");
 const data = require("./data.json");
-const {Card} = require("./card.js");
+const {Card} = require("./card.ts");
 
 // add response color
 const response = chalk.white;
