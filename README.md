@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Zemerik/ZemPosts/pull/12) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-2. ❗ Opened issue [#1](https://github.com/Sadia-Shahzadi/Portfolio-Website.github.io/issues/1) in [Sadia-Shahzadi/Portfolio-Website.github.io](https://github.com/Sadia-Shahzadi/Portfolio-Website.github.io)
-3. 🗣 Commented on [#2](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io/pull/2#issuecomment-2571282842) in [sagnikghoshcr7/sagnikghoshcr7.github.io](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io)
-4. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemShowcase/pull/22) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-5. 💪 Opened PR [#2](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io/pull/2) in [sagnikghoshcr7/sagnikghoshcr7.github.io](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io)
+1. 🎉 Merged PR [#23](https://github.com/Zemerik/ZemShowcase/pull/23) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+2. 🎉 Merged PR [#12](https://github.com/Zemerik/ZemPosts/pull/12) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+3. ❗ Opened issue [#1](https://github.com/Sadia-Shahzadi/Portfolio-Website.github.io/issues/1) in [Sadia-Shahzadi/Portfolio-Website.github.io](https://github.com/Sadia-Shahzadi/Portfolio-Website.github.io)
+4. 🗣 Commented on [#2](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io/pull/2#issuecomment-2571282842) in [sagnikghoshcr7/sagnikghoshcr7.github.io](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io)
+5. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemShowcase/pull/22) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
 <!--END_SECTION:activity-->
 
 </details>
