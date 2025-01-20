@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Developer-Utkarsh/chess-clock/pull/2) in [Developer-Utkarsh/chess-clock](https://github.com/Developer-Utkarsh/chess-clock)
-2. ❗ Opened issue [#1](https://github.com/Developer-Utkarsh/chess-clock/issues/1) in [Developer-Utkarsh/chess-clock](https://github.com/Developer-Utkarsh/chess-clock)
-3. 🎉 Merged PR [#23](https://github.com/Zemerik/ZemShowcase/pull/23) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-4. 🎉 Merged PR [#12](https://github.com/Zemerik/ZemPosts/pull/12) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-5. ❗ Opened issue [#1](https://github.com/Sadia-Shahzadi/Portfolio-Website.github.io/issues/1) in [Sadia-Shahzadi/Portfolio-Website.github.io](https://github.com/Sadia-Shahzadi/Portfolio-Website.github.io)
+1. 🗣 Commented on [#1](https://github.com/Developer-Utkarsh/chess-clock/issues/1#issuecomment-2601151755) in [Developer-Utkarsh/chess-clock](https://github.com/Developer-Utkarsh/chess-clock)
+2. 💪 Opened PR [#2](https://github.com/Developer-Utkarsh/chess-clock/pull/2) in [Developer-Utkarsh/chess-clock](https://github.com/Developer-Utkarsh/chess-clock)
+3. ❗ Opened issue [#1](https://github.com/Developer-Utkarsh/chess-clock/issues/1) in [Developer-Utkarsh/chess-clock](https://github.com/Developer-Utkarsh/chess-clock)
+4. 🎉 Merged PR [#23](https://github.com/Zemerik/ZemShowcase/pull/23) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+5. 🎉 Merged PR [#12](https://github.com/Zemerik/ZemPosts/pull/12) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
 <!--END_SECTION:activity-->
 
 </details>
