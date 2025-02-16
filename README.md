@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Zemerik/ZemDocs/pull/19) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-2. ❗ Opened issue [#2](https://github.com/MuneneCalvin/Responsive-portfolio-website/issues/2) in [MuneneCalvin/Responsive-portfolio-website](https://github.com/MuneneCalvin/Responsive-portfolio-website)
-3. 🎉 Merged PR [#27](https://github.com/Zemerik/ZemProfiles/pull/27) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-4. ❗ Opened issue [#1](https://github.com/iammnandu/HopeLine/issues/1) in [iammnandu/HopeLine](https://github.com/iammnandu/HopeLine)
-5. 🎉 Merged PR [#13](https://github.com/Zemerik/ZemPosts/pull/13) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+1. 🎉 Merged PR [#28](https://github.com/Zemerik/ZemProfiles/pull/28) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+2. 🎉 Merged PR [#19](https://github.com/Zemerik/ZemDocs/pull/19) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+3. ❗ Opened issue [#2](https://github.com/MuneneCalvin/Responsive-portfolio-website/issues/2) in [MuneneCalvin/Responsive-portfolio-website](https://github.com/MuneneCalvin/Responsive-portfolio-website)
+4. 🎉 Merged PR [#27](https://github.com/Zemerik/ZemProfiles/pull/27) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+5. ❗ Opened issue [#1](https://github.com/iammnandu/HopeLine/issues/1) in [iammnandu/HopeLine](https://github.com/iammnandu/HopeLine)
 <!--END_SECTION:activity-->
 
 </details>
