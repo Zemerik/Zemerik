@@ -85,7 +85,7 @@
   <tr>
     <td>
     
-  ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zemerik&layout=pie&theme=radical)
+  ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zemerik&layout=pie&theme=radical&langs_count=50&hide=mdx,css&exclude=zemerik)
     </td>
     <td>
 
