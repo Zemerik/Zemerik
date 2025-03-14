@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Zemerik/ZemDocs/pull/21) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-2. 🎉 Merged PR [#20](https://github.com/Zemerik/ZemDocs/pull/20) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-3. 🚀 Published release [v1.0.0](https://github.com/Zemerik/Python/releases/tag/v1.0.0) in [Zemerik/Python](https://github.com/Zemerik/Python)
-4. 🎉 Merged PR [#28](https://github.com/Zemerik/ZemProfiles/pull/28) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-5. ❗ Opened issue [#1](https://github.com/iammnandu/HopeLine/issues/1) in [iammnandu/HopeLine](https://github.com/iammnandu/HopeLine)
+1. ❗ Opened issue [#62](https://github.com/dotQuestionmark/30DaysOfJava/issues/62) in [dotQuestionmark/30DaysOfJava](https://github.com/dotQuestionmark/30DaysOfJava)
+2. ❗ Opened issue [#1](https://github.com/bedimcode/portfolio-personal/issues/1) in [bedimcode/portfolio-personal](https://github.com/bedimcode/portfolio-personal)
+3. ❌ Closed PR [#23](https://github.com/Zemerik/ZemDocs/pull/23) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+4. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemDocs/pull/22) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+5. 🎉 Merged PR [#21](https://github.com/Zemerik/ZemDocs/pull/21) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
 <!--END_SECTION:activity-->
 
 </details>
