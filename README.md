@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#62](https://github.com/dotQuestionmark/30DaysOfJava/issues/62) in [dotQuestionmark/30DaysOfJava](https://github.com/dotQuestionmark/30DaysOfJava)
-2. ❗ Opened issue [#1](https://github.com/bedimcode/portfolio-personal/issues/1) in [bedimcode/portfolio-personal](https://github.com/bedimcode/portfolio-personal)
-3. ❌ Closed PR [#23](https://github.com/Zemerik/ZemDocs/pull/23) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-4. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemDocs/pull/22) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-5. 🎉 Merged PR [#21](https://github.com/Zemerik/ZemDocs/pull/21) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+1. ❌ Closed PR [#15](https://github.com/Zemerik/ZemPosts/pull/15) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+2. ❗ Opened issue [#62](https://github.com/dotQuestionmark/30DaysOfJava/issues/62) in [dotQuestionmark/30DaysOfJava](https://github.com/dotQuestionmark/30DaysOfJava)
+3. ❗ Opened issue [#1](https://github.com/bedimcode/portfolio-personal/issues/1) in [bedimcode/portfolio-personal](https://github.com/bedimcode/portfolio-personal)
+4. ❌ Closed PR [#23](https://github.com/Zemerik/ZemDocs/pull/23) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+5. 🎉 Merged PR [#22](https://github.com/Zemerik/ZemDocs/pull/22) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
 <!--END_SECTION:activity-->
 
 </details>
