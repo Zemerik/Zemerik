@@ -26,10 +26,10 @@
   </summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [30 Days of Python: From Zero to Python Pro](https://dev.to/zemerik/30-days-of-python-from-zero-to-python-pro-pbj)
 - [Building your Portfolio in 2025](https://dev.to/zemerik/building-your-portfolio-in-2025-218e)
 - [My Journey with Hacktoberfest 2024](https://dev.to/zemerik/my-journey-with-hacktoberfest-2024-nce)
 - [ZemProfiles - v2.0.1 &lpar;Prerelease&rpar;](https://dev.to/zemerik/zemprofiles-v201-prerelease-1mgd)
-- [INTRODUCING ZEMPOSTS](https://dev.to/zemerik/introducing-zemposts-17nb)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
