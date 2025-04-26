@@ -179,6 +179,13 @@ const Zemerik = {
               X: "Zemerik_X",
               DISCORD: ".zemerik",
            },
+  myWeb: {
+            Portfolio: "zemerik.vercel.app",
+            Resume: "zemeriksresume.vercel.app",
+            Dashboard: "zemeriksdashboard.vercel.app",
+            Terminal: "zemeriksterminal.vercel.app",
+            Linktree: "zemerikslinks.vercel.app",
+         },
   projects: {
                ZemProfiles: "zemprofiles.vercel.app",
                ZemPosts: "zemposts.vercel.app",
