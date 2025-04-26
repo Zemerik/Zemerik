@@ -42,7 +42,7 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#48](https://github.com/LuciNyan/pixel-profile/issues/48) in [LuciNyan/pixel-profile](https://github.com/LuciNyan/pixel-profile)
+1. 🎉 Merged PR [#7](https://github.com/Zemerik/Portfolio-v2/pull/7) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
 2. ❌ Closed PR [#15](https://github.com/Zemerik/ZemPosts/pull/15) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
 3. ❗ Opened issue [#62](https://github.com/dotQuestionmark/30DaysOfJava/issues/62) in [dotQuestionmark/30DaysOfJava](https://github.com/dotQuestionmark/30DaysOfJava)
 4. ❗ Opened issue [#1](https://github.com/bedimcode/portfolio-personal/issues/1) in [bedimcode/portfolio-personal](https://github.com/bedimcode/portfolio-personal)
