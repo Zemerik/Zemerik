@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Zemerik/Portfolio-v2/pull/7) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
-2. ❌ Closed PR [#15](https://github.com/Zemerik/ZemPosts/pull/15) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-3. ❗ Opened issue [#62](https://github.com/dotQuestionmark/30DaysOfJava/issues/62) in [dotQuestionmark/30DaysOfJava](https://github.com/dotQuestionmark/30DaysOfJava)
-4. ❗ Opened issue [#1](https://github.com/bedimcode/portfolio-personal/issues/1) in [bedimcode/portfolio-personal](https://github.com/bedimcode/portfolio-personal)
-5. ❌ Closed PR [#23](https://github.com/Zemerik/ZemDocs/pull/23) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+1. 🎉 Merged PR [#4](https://github.com/Zemerik/Python/pull/4) in [Zemerik/Python](https://github.com/Zemerik/Python)
+2. 🎉 Merged PR [#8](https://github.com/Zemerik/Portfolio-v2/pull/8) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
+3. ❌ Closed PR [#3](https://github.com/Zemerik/Python/pull/3) in [Zemerik/Python](https://github.com/Zemerik/Python)
+4. 🎉 Merged PR [#2](https://github.com/Zemerik/Python/pull/2) in [Zemerik/Python](https://github.com/Zemerik/Python)
+5. 🎉 Merged PR [#1](https://github.com/Zemerik/Python/pull/1) in [Zemerik/Python](https://github.com/Zemerik/Python)
 <!--END_SECTION:activity-->
 
 </details>
