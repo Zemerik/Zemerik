@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Zemerik/Python/pull/4) in [Zemerik/Python](https://github.com/Zemerik/Python)
-2. 🎉 Merged PR [#8](https://github.com/Zemerik/Portfolio-v2/pull/8) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
-3. ❌ Closed PR [#3](https://github.com/Zemerik/Python/pull/3) in [Zemerik/Python](https://github.com/Zemerik/Python)
-4. 🎉 Merged PR [#2](https://github.com/Zemerik/Python/pull/2) in [Zemerik/Python](https://github.com/Zemerik/Python)
-5. 🎉 Merged PR [#1](https://github.com/Zemerik/Python/pull/1) in [Zemerik/Python](https://github.com/Zemerik/Python)
+1. 🎉 Merged PR [#5](https://github.com/Zemerik/Python/pull/5) in [Zemerik/Python](https://github.com/Zemerik/Python)
+2. 🎉 Merged PR [#4](https://github.com/Zemerik/Python/pull/4) in [Zemerik/Python](https://github.com/Zemerik/Python)
+3. 🎉 Merged PR [#8](https://github.com/Zemerik/Portfolio-v2/pull/8) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
+4. ❌ Closed PR [#3](https://github.com/Zemerik/Python/pull/3) in [Zemerik/Python](https://github.com/Zemerik/Python)
+5. 🎉 Merged PR [#2](https://github.com/Zemerik/Python/pull/2) in [Zemerik/Python](https://github.com/Zemerik/Python)
 <!--END_SECTION:activity-->
 
 </details>
