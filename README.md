@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#62](https://github.com/dotQuestionmark/30DaysOfJava/issues/62) in [dotQuestionmark/30DaysOfJava](https://github.com/dotQuestionmark/30DaysOfJava)
-2. 🎉 Merged PR [#5](https://github.com/Zemerik/Python/pull/5) in [Zemerik/Python](https://github.com/Zemerik/Python)
-3. 🎉 Merged PR [#4](https://github.com/Zemerik/Python/pull/4) in [Zemerik/Python](https://github.com/Zemerik/Python)
-4. 🎉 Merged PR [#8](https://github.com/Zemerik/Portfolio-v2/pull/8) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
-5. ❌ Closed PR [#3](https://github.com/Zemerik/Python/pull/3) in [Zemerik/Python](https://github.com/Zemerik/Python)
+1. ❗ Opened issue [#21](https://github.com/abint7/free-domains/issues/21) in [abint7/free-domains](https://github.com/abint7/free-domains)
+2. 💪 Opened PR [#933](https://github.com/thedev-id/thedev.id/pull/933) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+3. 🔒 Closed issue [#62](https://github.com/dotQuestionmark/30DaysOfJava/issues/62) in [dotQuestionmark/30DaysOfJava](https://github.com/dotQuestionmark/30DaysOfJava)
+4. 🎉 Merged PR [#5](https://github.com/Zemerik/Python/pull/5) in [Zemerik/Python](https://github.com/Zemerik/Python)
+5. 🎉 Merged PR [#4](https://github.com/Zemerik/Python/pull/4) in [Zemerik/Python](https://github.com/Zemerik/Python)
 <!--END_SECTION:activity-->
 
 </details>
