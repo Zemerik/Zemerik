@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/is-truly-a-pro/register/pull/29) in [is-truly-a-pro/register](https://github.com/is-truly-a-pro/register)
-2. ❗ Opened issue [#2267](https://github.com/open-domains/register/issues/2267) in [open-domains/register](https://github.com/open-domains/register)
-3. 💪 Opened PR [#2266](https://github.com/open-domains/register/pull/2266) in [open-domains/register](https://github.com/open-domains/register)
-4. 🗣 Commented on [#2259](https://github.com/open-domains/register/pull/2259#issuecomment-2856712110) in [open-domains/register](https://github.com/open-domains/register)
-5. 💪 Opened PR [#2259](https://github.com/open-domains/register/pull/2259) in [open-domains/register](https://github.com/open-domains/register)
+1. ❗ Opened issue [#65](https://github.com/Chetan3010/EarthX/issues/65) in [Chetan3010/EarthX](https://github.com/Chetan3010/EarthX)
+2. 💪 Opened PR [#29](https://github.com/is-truly-a-pro/register/pull/29) in [is-truly-a-pro/register](https://github.com/is-truly-a-pro/register)
+3. ❗ Opened issue [#2267](https://github.com/open-domains/register/issues/2267) in [open-domains/register](https://github.com/open-domains/register)
+4. 💪 Opened PR [#2266](https://github.com/open-domains/register/pull/2266) in [open-domains/register](https://github.com/open-domains/register)
+5. 🗣 Commented on [#2259](https://github.com/open-domains/register/pull/2259#issuecomment-2856712110) in [open-domains/register](https://github.com/open-domains/register)
 <!--END_SECTION:activity-->
 
 </details>
