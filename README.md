@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#65](https://github.com/Chetan3010/EarthX/issues/65) in [Chetan3010/EarthX](https://github.com/Chetan3010/EarthX)
-2. 💪 Opened PR [#29](https://github.com/is-truly-a-pro/register/pull/29) in [is-truly-a-pro/register](https://github.com/is-truly-a-pro/register)
-3. ❗ Opened issue [#2267](https://github.com/open-domains/register/issues/2267) in [open-domains/register](https://github.com/open-domains/register)
-4. 💪 Opened PR [#2266](https://github.com/open-domains/register/pull/2266) in [open-domains/register](https://github.com/open-domains/register)
-5. 🗣 Commented on [#2259](https://github.com/open-domains/register/pull/2259#issuecomment-2856712110) in [open-domains/register](https://github.com/open-domains/register)
+1. ❌ Closed PR [#2](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io/pull/2) in [sagnikghoshcr7/sagnikghoshcr7.github.io](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io)
+2. 🗣 Commented on [#933](https://github.com/thedev-id/thedev.id/pull/933#issuecomment-2889298305) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+3. 🗣 Commented on [#30](https://github.com/is-truly-a-pro/register/issues/30#issuecomment-2888995493) in [is-truly-a-pro/register](https://github.com/is-truly-a-pro/register)
+4. 🔒 Closed issue [#30](https://github.com/is-truly-a-pro/register/issues/30) in [is-truly-a-pro/register](https://github.com/is-truly-a-pro/register)
+5. ❗ Opened issue [#800](https://github.com/CommunityPro/support/issues/800) in [CommunityPro/support](https://github.com/CommunityPro/support)
 <!--END_SECTION:activity-->
 
 </details>
