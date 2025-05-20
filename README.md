@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2382](https://github.com/emmabostian/developer-portfolios/pull/2382) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
-2. ❌ Closed PR [#2](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io/pull/2) in [sagnikghoshcr7/sagnikghoshcr7.github.io](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io)
-3. 🗣 Commented on [#933](https://github.com/thedev-id/thedev.id/pull/933#issuecomment-2889298305) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
-4. 🗣 Commented on [#30](https://github.com/is-truly-a-pro/register/issues/30#issuecomment-2888995493) in [is-truly-a-pro/register](https://github.com/is-truly-a-pro/register)
-5. 🔒 Closed issue [#30](https://github.com/is-truly-a-pro/register/issues/30) in [is-truly-a-pro/register](https://github.com/is-truly-a-pro/register)
+1. 💪 Opened PR [#169](https://github.com/yfosp/main-website/pull/169) in [yfosp/main-website](https://github.com/yfosp/main-website)
+2. 💪 Opened PR [#2382](https://github.com/emmabostian/developer-portfolios/pull/2382) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+3. ❌ Closed PR [#2](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io/pull/2) in [sagnikghoshcr7/sagnikghoshcr7.github.io](https://github.com/sagnikghoshcr7/sagnikghoshcr7.github.io)
+4. 🗣 Commented on [#933](https://github.com/thedev-id/thedev.id/pull/933#issuecomment-2889298305) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+5. 🗣 Commented on [#30](https://github.com/is-truly-a-pro/register/issues/30#issuecomment-2888995493) in [is-truly-a-pro/register](https://github.com/is-truly-a-pro/register)
 <!--END_SECTION:activity-->
 
 </details>
