@@ -42,11 +42,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#792](https://github.com/infraform/contribute/issues/792) in [infraform/contribute](https://github.com/infraform/contribute)
-2. 🎉 Merged PR [#25](https://github.com/Zemerik/ZemDocs/pull/25) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-3. 💪 Opened PR [#30](https://github.com/Chhunneng/programming-starters-project/pull/30) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
-4. 💪 Opened PR [#169](https://github.com/yfosp/main-website/pull/169) in [yfosp/main-website](https://github.com/yfosp/main-website)
-5. 💪 Opened PR [#2382](https://github.com/emmabostian/developer-portfolios/pull/2382) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+1. 🎉 Merged PR [#1](https://github.com/Zemerik/Dashboard/pull/1) in [Zemerik/Dashboard](https://github.com/Zemerik/Dashboard)
+2. ❗ Opened issue [#792](https://github.com/infraform/contribute/issues/792) in [infraform/contribute](https://github.com/infraform/contribute)
+3. 🎉 Merged PR [#25](https://github.com/Zemerik/ZemDocs/pull/25) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+4. 💪 Opened PR [#30](https://github.com/Chhunneng/programming-starters-project/pull/30) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
+5. 💪 Opened PR [#169](https://github.com/yfosp/main-website/pull/169) in [yfosp/main-website](https://github.com/yfosp/main-website)
 <!--END_SECTION:activity-->
 
 </details>
