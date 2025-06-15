@@ -38,11 +38,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Zemerik/Dashboard/pull/2) in [Zemerik/Dashboard](https://github.com/Zemerik/Dashboard)
-2. 🗣 Commented on [#30](https://github.com/Chhunneng/programming-starters-project/pull/30#issuecomment-2906679340) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
-3. 🎉 Merged PR [#6](https://github.com/Zemerik/Python/pull/6) in [Zemerik/Python](https://github.com/Zemerik/Python)
-4. 🎉 Merged PR [#1](https://github.com/Zemerik/Dashboard/pull/1) in [Zemerik/Dashboard](https://github.com/Zemerik/Dashboard)
-5. ❗ Opened issue [#792](https://github.com/infraform/contribute/issues/792) in [infraform/contribute](https://github.com/infraform/contribute)
+1. 🗣 Commented on [#30](https://github.com/Chhunneng/programming-starters-project/pull/30#issuecomment-2972763579) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
+2. ❗ Opened issue [#2](https://github.com/roubalsehgal/awesome-github-readme-designs/issues/2) in [roubalsehgal/awesome-github-readme-designs](https://github.com/roubalsehgal/awesome-github-readme-designs)
+3. 🎉 Merged PR [#2](https://github.com/Zemerik/Dashboard/pull/2) in [Zemerik/Dashboard](https://github.com/Zemerik/Dashboard)
+4. 🗣 Commented on [#30](https://github.com/Chhunneng/programming-starters-project/pull/30#issuecomment-2906679340) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
+5. 🎉 Merged PR [#6](https://github.com/Zemerik/Python/pull/6) in [Zemerik/Python](https://github.com/Zemerik/Python)
 <!--END_SECTION:activity-->
 
 </details>
