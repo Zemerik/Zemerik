@@ -38,11 +38,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#26](https://github.com/Zemerik/ZemDocs/pull/26) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-2. 🚀 Published release [v1.1.0](https://github.com/Zemerik/ZemDocs/releases/tag/v1.1.0) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-3. ❗ Opened issue [#1](https://github.com/Praveenterax/reactjs-portfolio/issues/1) in [Praveenterax/reactjs-portfolio](https://github.com/Praveenterax/reactjs-portfolio)
-4. ❌ Closed PR [#16](https://github.com/Zemerik/ZemPosts/pull/16) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-5. 🎉 Merged PR [#25](https://github.com/Zemerik/ZemShowcase/pull/25) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+1. 🚀 Published release [v1.2.0](https://github.com/Zemerik/ZemPosts/releases/tag/v1.2.0) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+2. 🗣 Commented on [#30](https://github.com/Chhunneng/programming-starters-project/pull/30#issuecomment-2993903037) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
+3. ❌ Closed PR [#30](https://github.com/Chhunneng/programming-starters-project/pull/30) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
+4. 🗣 Commented on [#933](https://github.com/thedev-id/thedev.id/pull/933#issuecomment-2993902775) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+5. ❌ Closed PR [#933](https://github.com/thedev-id/thedev.id/pull/933) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
 <!--END_SECTION:activity-->
 
 </details>
