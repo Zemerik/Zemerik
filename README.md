@@ -38,11 +38,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0](https://github.com/Zemerik/ZemPosts/releases/tag/v1.2.0) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-2. 🗣 Commented on [#30](https://github.com/Chhunneng/programming-starters-project/pull/30#issuecomment-2993903037) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
-3. ❌ Closed PR [#30](https://github.com/Chhunneng/programming-starters-project/pull/30) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
-4. 🗣 Commented on [#933](https://github.com/thedev-id/thedev.id/pull/933#issuecomment-2993902775) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
-5. ❌ Closed PR [#933](https://github.com/thedev-id/thedev.id/pull/933) in [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id)
+1. 🎉 Merged PR [#7](https://github.com/Zemerik/Task-Runner/pull/7) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
+2. 🎉 Merged PR [#6](https://github.com/Zemerik/Task-Runner/pull/6) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
+3. 🎉 Merged PR [#5](https://github.com/Zemerik/Task-Runner/pull/5) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
+4. 🎉 Merged PR [#4](https://github.com/Zemerik/Task-Runner/pull/4) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
+5. 🎉 Merged PR [#3](https://github.com/Zemerik/Task-Runner/pull/3) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
 <!--END_SECTION:activity-->
 
 </details>
