@@ -38,11 +38,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/ImpicDevs/support/issues/5) in [ImpicDevs/support](https://github.com/ImpicDevs/support)
-2. 🔒 Closed issue [#4](https://github.com/ImpicDevs/support/issues/4) in [ImpicDevs/support](https://github.com/ImpicDevs/support)
-3. 🔒 Closed issue [#6](https://github.com/ImpicDevs/support/issues/6) in [ImpicDevs/support](https://github.com/ImpicDevs/support)
-4. 🎉 Merged PR [#7](https://github.com/Zemerik/Task-Runner/pull/7) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
-5. 🎉 Merged PR [#6](https://github.com/Zemerik/Task-Runner/pull/6) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
+1. 🎉 Merged PR [#26](https://github.com/Zemerik/ZemShowcase/pull/26) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
+2. 🔒 Closed issue [#5](https://github.com/ImpicDevs/support/issues/5) in [ImpicDevs/support](https://github.com/ImpicDevs/support)
+3. 🔒 Closed issue [#4](https://github.com/ImpicDevs/support/issues/4) in [ImpicDevs/support](https://github.com/ImpicDevs/support)
+4. 🔒 Closed issue [#6](https://github.com/ImpicDevs/support/issues/6) in [ImpicDevs/support](https://github.com/ImpicDevs/support)
+5. 🎉 Merged PR [#7](https://github.com/Zemerik/Task-Runner/pull/7) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
 <!--END_SECTION:activity-->
 
 </details>
