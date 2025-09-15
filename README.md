@@ -38,10 +38,10 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Zemerik/ZemProfiles/pull/31) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-2. 🎉 Merged PR [#30](https://github.com/Zemerik/ZemProfiles/pull/30) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-3. 🎉 Merged PR [#26](https://github.com/Zemerik/ZemShowcase/pull/26) in [Zemerik/ZemShowcase](https://github.com/Zemerik/ZemShowcase)
-4. 🔒 Closed issue [#4](https://github.com/ImpicDevs/support/issues/4) in [ImpicDevs/support](https://github.com/ImpicDevs/support)
+1. 🎉 Merged PR [#35](https://github.com/Zemerik/ZemProfiles/pull/35) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+2. 🎉 Merged PR [#34](https://github.com/Zemerik/ZemProfiles/pull/34) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+3. 🎉 Merged PR [#33](https://github.com/Zemerik/ZemProfiles/pull/33) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+4. 🎉 Merged PR [#32](https://github.com/Zemerik/ZemProfiles/pull/32) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
 5. 🔒 Closed issue [#6](https://github.com/ImpicDevs/support/issues/6) in [ImpicDevs/support](https://github.com/ImpicDevs/support)
 <!--END_SECTION:activity-->
 
