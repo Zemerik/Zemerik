@@ -38,11 +38,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/Zemerik/Macbrew/releases/tag/1.0.1) in [Zemerik/Macbrew](https://github.com/Zemerik/Macbrew)
-2. 🎉 Merged PR [#35](https://github.com/Zemerik/ZemProfiles/pull/35) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-3. 🎉 Merged PR [#34](https://github.com/Zemerik/ZemProfiles/pull/34) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-4. 🎉 Merged PR [#33](https://github.com/Zemerik/ZemProfiles/pull/33) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-5. 🎉 Merged PR [#32](https://github.com/Zemerik/ZemProfiles/pull/32) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+1. ❌ Closed PR [#17](https://github.com/Zemerik/ZemPosts/pull/17) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+2. ❌ Closed PR [#28](https://github.com/Zemerik/ZemDocs/pull/28) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+3. 🎉 Merged PR [#37](https://github.com/Zemerik/ZemProfiles/pull/37) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+4. 🎉 Merged PR [#36](https://github.com/Zemerik/ZemProfiles/pull/36) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+5. 🚀 Published release [v1.0.1](https://github.com/Zemerik/Macbrew/releases/tag/1.0.1) in [Zemerik/Macbrew](https://github.com/Zemerik/Macbrew)
 <!--END_SECTION:activity-->
 
 </details>
