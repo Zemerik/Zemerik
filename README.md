@@ -38,9 +38,9 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#33](undefined) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-2. ❌ Closed PR [#16](undefined) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
-3. ❌ Closed PR [#18](undefined) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+1. 🚀 Published release [v1.2.1](https://github.com/Zemerik/Portfolio-v2/releases/tag/v1.2.1) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
+2. ❌ Closed PR [#33](undefined) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+3. ❌ Closed PR [#16](undefined) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
 4. ❌ Closed PR [#17](undefined) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
 5. ❌ Closed PR [#28](undefined) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
 <!--END_SECTION:activity-->
