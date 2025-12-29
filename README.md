@@ -38,8 +38,8 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](undefined) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
-2. ❌ Closed PR [#40](undefined) in [Zemerik/ZemProfiles](https://github.com/Zemerik/ZemProfiles)
+1. ❌ Closed PR [#33](undefined) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+2. ❌ Closed PR [#16](undefined) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
 3. ❌ Closed PR [#18](undefined) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
 4. ❌ Closed PR [#17](undefined) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
 5. ❌ Closed PR [#28](undefined) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
