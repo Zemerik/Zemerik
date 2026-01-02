@@ -38,11 +38,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.1](https://github.com/Zemerik/Linktree/releases/tag/v2.0.1) in [Zemerik/Linktree](https://github.com/Zemerik/Linktree)
-2. 🚀 Published release [v1.2.1](https://github.com/Zemerik/Portfolio-v2/releases/tag/v1.2.1) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
-3. ❌ Closed PR [#33](https://github.com/Zemerik/ZemDocs/pull/33) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-4. ❌ Closed PR [#16](https://github.com/Zemerik/Task-Runner/pull/16) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
-5. ❌ Closed PR [#28](undefined) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+1. ❌ Closed PR [#10](https://github.com/Zemerik/Portfolio-v2/pull/10) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
+2. 🚀 Published release [v2.0.1](https://github.com/Zemerik/Linktree/releases/tag/v2.0.1) in [Zemerik/Linktree](https://github.com/Zemerik/Linktree)
+3. 🚀 Published release [v1.2.1](https://github.com/Zemerik/Portfolio-v2/releases/tag/v1.2.1) in [Zemerik/Portfolio-v2](https://github.com/Zemerik/Portfolio-v2)
+4. ❌ Closed PR [#33](https://github.com/Zemerik/ZemDocs/pull/33) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+5. ❌ Closed PR [#16](https://github.com/Zemerik/Task-Runner/pull/16) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
 <!--END_SECTION:activity-->
 
 </details>
