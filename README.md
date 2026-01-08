@@ -70,34 +70,6 @@
   
 </details>
 
-<details>
-  <summary>
-    🎓My Stats
-  </summary>
-
-<br>
-
-<table>
-  <tr>
-    <td>
-    
-  ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zemerik&layout=pie&theme=radical&langs_count=50&hide=mdx,css&exclude=zemerik)
-    </td>
-    <td>
-
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=zemerik&show=reviews,&show_icons=true&theme=radical&locale=en)
-  
-  <br>
-  
-  ![GitHub Streaks](https://streak-stats.demolab.com?user=Zemerik&theme=radical)
-    </td>
-  </tr>
-</table>
-
-<br>
-
-</details>
-
 </details>
 </div>
 
