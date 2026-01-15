@@ -38,11 +38,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.1-Beta](https://github.com/Zemerik/Gemini-Assist/releases/tag/v1.1.1-Beta) in [Zemerik/Gemini-Assist](https://github.com/Zemerik/Gemini-Assist)
-2. 🚀 Published release [v1.2.1](https://github.com/Zemerik/Macbrew/releases/tag/1.2.1) in [Zemerik/Macbrew](https://github.com/Zemerik/Macbrew)
-3. 🚀 Published release [v1.0.2](https://github.com/Zemerik/Task-Runner/releases/tag/v1.0.2) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
-4. 🚀 Published release [v1.2.1](https://github.com/Zemerik/Resume/releases/tag/v1.2.1) in [Zemerik/Resume](https://github.com/Zemerik/Resume)
-5. 🚀 Published release [v2.1.1](https://github.com/Zemerik/zemerik.github.io/releases/tag/v2.1.1) in [Zemerik/zemerik.github.io](https://github.com/Zemerik/zemerik.github.io)
+1. ❌ Closed PR [#34](https://github.com/Zemerik/ZemDocs/pull/34) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+2. ❌ Closed PR [#20](https://github.com/Zemerik/ZemPosts/pull/20) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+3. 🚀 Published release [v1.1.1-Beta](https://github.com/Zemerik/Gemini-Assist/releases/tag/v1.1.1-Beta) in [Zemerik/Gemini-Assist](https://github.com/Zemerik/Gemini-Assist)
+4. 🚀 Published release [v1.2.1](https://github.com/Zemerik/Macbrew/releases/tag/1.2.1) in [Zemerik/Macbrew](https://github.com/Zemerik/Macbrew)
+5. 🚀 Published release [v1.0.2](https://github.com/Zemerik/Task-Runner/releases/tag/v1.0.2) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
 <!--END_SECTION:activity-->
 
 </details>
