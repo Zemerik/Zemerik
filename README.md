@@ -38,11 +38,11 @@
 <br>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.3](https://github.com/Zemerik/Task-Runner/releases/tag/v1.0.3) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
-2. ❌ Closed PR [#21](https://github.com/Zemerik/ZemPosts/pull/21) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-3. ❌ Closed PR [#34](https://github.com/Zemerik/ZemDocs/pull/34) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
-4. ❌ Closed PR [#20](https://github.com/Zemerik/ZemPosts/pull/20) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
-5. 🚀 Published release [v1.1.1-Beta](https://github.com/Zemerik/Gemini-Assist/releases/tag/v1.1.1-Beta) in [Zemerik/Gemini-Assist](https://github.com/Zemerik/Gemini-Assist)
+1. 🚀 Published release [v1.2.2](https://github.com/Zemerik/Macbrew/releases/tag/1.2.2) in [Zemerik/Macbrew](https://github.com/Zemerik/Macbrew)
+2. 🚀 Published release [v1.0.3](https://github.com/Zemerik/Task-Runner/releases/tag/v1.0.3) in [Zemerik/Task-Runner](https://github.com/Zemerik/Task-Runner)
+3. ❌ Closed PR [#21](https://github.com/Zemerik/ZemPosts/pull/21) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
+4. ❌ Closed PR [#34](https://github.com/Zemerik/ZemDocs/pull/34) in [Zemerik/ZemDocs](https://github.com/Zemerik/ZemDocs)
+5. ❌ Closed PR [#20](https://github.com/Zemerik/ZemPosts/pull/20) in [Zemerik/ZemPosts](https://github.com/Zemerik/ZemPosts)
 <!--END_SECTION:activity-->
 
 </details>
