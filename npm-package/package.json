@@ -16,5 +16,8 @@
   },
   "bin": {
     "zemerik": "./index.js"
+  },
+  "overrides": {
+    "tmp": "0.2.6"
   }
 }
