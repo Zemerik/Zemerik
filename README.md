@@ -1,3 +1,5 @@
+
+
 <p align = "center">
   <img src = "assets/banner6.png" alt = "Banner">
 </p>
@@ -82,6 +84,10 @@
 <img src = "npm-package/assets/installation.png" style = "height: 100px; width: 500px;">
 
 </p>
+
+```bash
+npx zemerik
+```
 
 <p align="center">
   
