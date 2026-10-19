@@ -16,5 +16,8 @@
   },
   "bin": {
     "zemerik": "./index.js"
+  },
+  "overrides": {
+    "lodash": "4.18.0"
   }
 }
